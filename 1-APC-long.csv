@@ -1,0 +1,2369 @@
+Sex,Site,State,APC,Lower,Upper,Sig,Iowa
+Both,All Sites,Alaska,0,-0.4,0.4,0,0
+Both,All Sites,Alabama,0.4,0.1,0.6,1,0
+Both,All Sites,Arkansas,0.9,0.6,1.2,1,0
+Both,All Sites,Arizona,0.3,0.1,0.4,1,0
+Both,All Sites,California,0.4,0.2,0.5,1,0
+Both,All Sites,Colorado,0.1,-0.1,0.3,0,0
+Both,All Sites,Connecticut,0.1,-0.2,0.3,0,0
+Both,All Sites,District of Columbia,-1.2,-1.9,-0.5,1,0
+Both,All Sites,Delaware,0,-0.4,0.4,0,0
+Both,All Sites,Florida,0.2,0.1,0.4,1,0
+Both,All Sites,Georgia,0.3,0.1,0.4,1,0
+Both,All Sites,Hawaii,0.3,-0.1,0.6,0,0
+Both,All Sites,Idaho,0.4,0.2,0.6,1,0
+Both,All Sites,Illinois,0.4,0.2,0.6,1,0
+Both,All Sites,Indiana,0.3,0.2,0.5,1,0
+Both,All Sites,Iowa,0.7,0.5,0.9,1,1
+Both,All Sites,Kansas,0.4,0.2,0.7,1,0
+Both,All Sites,Kentucky,0.6,0.4,0.9,1,0
+Both,All Sites,Louisiana,0.7,0.4,0.9,1,0
+Both,All Sites,Massachusetts,-0.5,-1,-0.1,1,0
+Both,All Sites,Maryland,0,-0.2,0.2,0,0
+Both,All Sites,Maine,0.3,0,0.6,0,0
+Both,All Sites,Michigan,-0.1,-0.3,0.1,0,0
+Both,All Sites,Minnesota,1,0.8,1.2,1,0
+Both,All Sites,Missouri,0.4,0.2,0.6,1,0
+Both,All Sites,Montana,0.7,0.4,1,1,0
+Both,All Sites,North Carolina,0.3,0.1,0.6,1,0
+Both,All Sites,North Dakota,1.2,0.8,1.6,1,0
+Both,All Sites,Nebraska,0.7,0.4,1,1,0
+Both,All Sites,New Hampshire,-0.2,-0.5,0.1,0,0
+Both,All Sites,New Jersey,0,-0.2,0.2,0,0
+Both,All Sites,New Mexico,0.2,-0.1,0.5,0,0
+Both,All Sites,Nevada,0.1,-0.2,0.4,0,0
+Both,All Sites,New York,0.4,0.2,0.7,1,0
+Both,All Sites,Ohio,0.7,0.5,0.9,1,0
+Both,All Sites,Oklahoma,0.5,0.2,0.8,1,0
+Both,All Sites,Oregon,-0.2,-0.4,0.1,0,0
+Both,All Sites,Pennsylvania,0,-0.4,0.3,0,0
+Both,All Sites,Rhode Island,-0.7,-1,-0.3,1,0
+Both,All Sites,South Carolina,-0.1,-0.3,0.1,0,0
+Both,All Sites,South Dakota,0.9,0.6,1.3,1,0
+Both,All Sites,Tennessee,0.3,-0.2,0.7,0,0
+Both,All Sites,Texas,0.1,0,0.3,0,0
+Both,All Sites,Utah,1,0.7,1.2,1,0
+Both,All Sites,Virginia,0.1,-0.2,0.4,0,0
+Both,All Sites,Vermont,0,-0.3,0.3,0,0
+Both,All Sites,Washington,-0.1,-0.3,0.1,0,0
+Both,All Sites,Wisconsin,0.6,0.4,0.8,1,0
+Both,All Sites,West Virginia,0.8,0.5,1.1,1,0
+Both,All Sites,Wyoming,0.4,0,0.9,0,0
+Male,All Sites,Alaska,-0.9,-1.4,-0.3,1,0
+Male,All Sites,Alabama,-0.3,-0.6,0.1,0,0
+Male,All Sites,Arkansas,0.3,-0.1,0.7,0,0
+Male,All Sites,Arizona,-0.1,-0.3,0.2,0,0
+Male,All Sites,California,-0.3,-0.5,-0.2,1,0
+Male,All Sites,Colorado,-0.4,-0.7,-0.2,1,0
+Male,All Sites,Connecticut,-0.5,-0.8,-0.2,1,0
+Male,All Sites,District of Columbia,-2,-2.6,-1.4,1,0
+Male,All Sites,Delaware,-1,-1.8,-0.1,1,0
+Male,All Sites,Florida,-0.6,-0.7,-0.4,1,0
+Male,All Sites,Georgia,-0.3,-0.5,-0.1,1,0
+Male,All Sites,Hawaii,-0.5,-1,0.1,0,0
+Male,All Sites,Idaho,-0.2,-0.5,0.2,0,0
+Male,All Sites,Illinois,0,-0.2,0.2,0,0
+Male,All Sites,Indiana,-0.1,-0.4,0.1,0,0
+Male,All Sites,Iowa,0.5,0.2,0.7,1,1
+Male,All Sites,Kansas,0,-0.4,0.4,0,0
+Male,All Sites,Kentucky,0.1,-0.2,0.3,0,0
+Male,All Sites,Louisiana,0.1,-0.3,0.4,0,0
+Male,All Sites,Massachusetts,-1.3,-1.7,-0.8,1,0
+Male,All Sites,Maryland,-0.5,-0.7,-0.2,1,0
+Male,All Sites,Maine,-0.3,-0.7,0.1,0,0
+Male,All Sites,Michigan,-0.5,-0.7,-0.3,1,0
+Male,All Sites,Minnesota,0.6,0.3,0.8,1,0
+Male,All Sites,Missouri,-0.1,-0.3,0.1,0,0
+Male,All Sites,Montana,0.5,-0.1,1,0,0
+Male,All Sites,North Carolina,-0.3,-0.6,0.1,0,0
+Male,All Sites,North Dakota,0.8,0.2,1.3,1,0
+Male,All Sites,Nebraska,0.2,-0.1,0.5,0,0
+Male,All Sites,New Hampshire,-0.8,-1.3,-0.3,1,0
+Male,All Sites,New Jersey,-0.6,-0.8,-0.4,1,0
+Male,All Sites,New Mexico,-0.1,-0.5,0.3,0,0
+Male,All Sites,Nevada,-0.7,-1.1,-0.3,1,0
+Male,All Sites,New York,-0.1,-0.4,0.2,0,0
+Male,All Sites,Ohio,0.3,0.1,0.5,1,0
+Male,All Sites,Oklahoma,0.1,-0.2,0.4,0,0
+Male,All Sites,Oregon,-0.6,-0.9,-0.2,1,0
+Male,All Sites,Pennsylvania,-0.6,-0.9,-0.2,1,0
+Male,All Sites,Rhode Island,-1.6,-2.1,-1.1,1,0
+Male,All Sites,South Carolina,-0.8,-1.1,-0.5,1,0
+Male,All Sites,South Dakota,0.6,0,1.2,0,0
+Male,All Sites,Tennessee,0.1,-0.4,0.6,0,0
+Male,All Sites,Texas,-0.4,-0.6,-0.2,1,0
+Male,All Sites,Utah,0.3,0,0.7,0,0
+Male,All Sites,Virginia,-0.8,-1.2,-0.3,1,0
+Male,All Sites,Vermont,-0.3,-0.7,0,0,0
+Male,All Sites,Washington,-0.7,-1,-0.4,1,0
+Male,All Sites,Wisconsin,0.2,-0.1,0.5,0,0
+Male,All Sites,West Virginia,0.1,-0.3,0.5,0,0
+Male,All Sites,Wyoming,-0.6,-1.3,0.1,0,0
+Female,All Sites,Alaska,0.6,0.1,1.1,1,0
+Female,All Sites,Alabama,0.8,0.5,1,1,0
+Female,All Sites,Arkansas,1.3,1,1.6,1,0
+Female,All Sites,Arizona,0.5,0.3,0.7,1,0
+Female,All Sites,California,0.8,0.6,0.9,1,0
+Female,All Sites,Colorado,0.5,0.2,0.7,1,0
+Female,All Sites,Connecticut,0.4,0.1,0.7,1,0
+Female,All Sites,District of Columbia,-0.7,-1.6,0.2,0,0
+Female,All Sites,Delaware,0.6,0.2,1,1,0
+Female,All Sites,Florida,0.8,0.6,1,1,0
+Female,All Sites,Georgia,0.6,0.4,0.7,1,0
+Female,All Sites,Hawaii,0.7,0.3,1.1,1,0
+Female,All Sites,Idaho,0.8,0.5,1.1,1,0
+Female,All Sites,Illinois,0.7,0.5,0.9,1,0
+Female,All Sites,Indiana,0.6,0.4,0.8,1,0
+Female,All Sites,Iowa,0.9,0.7,1.2,1,1
+Female,All Sites,Kansas,0.7,0.5,1,1,0
+Female,All Sites,Kentucky,1,0.8,1.3,1,0
+Female,All Sites,Louisiana,1,0.8,1.3,1,0
+Female,All Sites,Massachusetts,-0.1,-0.5,0.3,0,0
+Female,All Sites,Maryland,0.3,0.1,0.5,1,0
+Female,All Sites,Maine,0.7,0.3,1,1,0
+Female,All Sites,Michigan,0.2,0,0.4,0,0
+Female,All Sites,Minnesota,1.2,1.1,1.4,1,0
+Female,All Sites,Missouri,0.7,0.5,0.9,1,0
+Female,All Sites,Montana,0.9,0.6,1.2,1,0
+Female,All Sites,North Carolina,0.7,0.4,1,1,0
+Female,All Sites,North Dakota,1.6,1.2,2.1,1,0
+Female,All Sites,Nebraska,1.1,0.7,1.4,1,0
+Female,All Sites,New Hampshire,0.2,-0.2,0.5,0,0
+Female,All Sites,New Jersey,0.3,0.1,0.6,1,0
+Female,All Sites,New Mexico,0.4,0.1,0.7,1,0
+Female,All Sites,Nevada,0.5,0.2,0.8,1,0
+Female,All Sites,New York,0.8,0.5,1.1,1,0
+Female,All Sites,Ohio,0.9,0.7,1.1,1,0
+Female,All Sites,Oklahoma,0.8,0.5,1.1,1,0
+Female,All Sites,Oregon,0.1,-0.2,0.4,0,0
+Female,All Sites,Pennsylvania,0.3,0,0.7,0,0
+Female,All Sites,Rhode Island,-0.1,-0.5,0.3,0,0
+Female,All Sites,South Carolina,0.3,0.1,0.5,1,0
+Female,All Sites,South Dakota,1.2,0.8,1.7,1,0
+Female,All Sites,Tennessee,0.4,-0.1,0.9,0,0
+Female,All Sites,Texas,0.5,0.4,0.7,1,0
+Female,All Sites,Utah,1.4,1.1,1.7,1,0
+Female,All Sites,Virginia,0.6,0.3,0.8,1,0
+Female,All Sites,Vermont,0.3,-0.2,0.7,0,0
+Female,All Sites,Washington,0.3,0.1,0.4,1,0
+Female,All Sites,Wisconsin,0.9,0.7,1.1,1,0
+Female,All Sites,West Virginia,1.3,1,1.5,1,0
+Female,All Sites,Wyoming,1.1,0.6,1.6,1,0
+Both,Breast,Alaska,0.5,-0.1,1,0,0
+Both,Breast,Alabama,0.4,0.2,0.7,1,0
+Both,Breast,Arkansas,0.4,0,0.8,0,0
+Both,Breast,Arizona,0.4,0.1,0.7,1,0
+Both,Breast,California,0.6,0.4,0.7,1,0
+Both,Breast,Colorado,0.7,0.4,1,1,0
+Both,Breast,Connecticut,0.5,0.2,0.9,1,0
+Both,Breast,District of Columbia,-0.3,-1.7,1,0,0
+Both,Breast,Delaware,0.9,0.2,1.6,1,0
+Both,Breast,Florida,0.2,0,0.5,0,0
+Both,Breast,Georgia,0.5,0.3,0.6,1,0
+Both,Breast,Hawaii,1.1,0.6,1.6,1,0
+Both,Breast,Idaho,1.3,0.6,1.9,1,0
+Both,Breast,Illinois,0.6,0.5,0.8,1,0
+Both,Breast,Indiana,0.5,0.2,0.8,1,0
+Both,Breast,Iowa,0.7,0.3,1,1,1
+Both,Breast,Kansas,0.3,0,0.7,0,0
+Both,Breast,Kentucky,0.5,0.1,0.8,1,0
+Both,Breast,Louisiana,0.6,0.3,0.9,1,0
+Both,Breast,Massachusetts,0.5,0.3,0.8,1,0
+Both,Breast,Maryland,0.4,0.1,0.7,1,0
+Both,Breast,Maine,0.6,0.2,1.1,1,0
+Both,Breast,Michigan,0.4,0.1,0.7,1,0
+Both,Breast,Minnesota,1.1,0.9,1.3,1,0
+Both,Breast,Missouri,0.7,0.4,1,1,0
+Both,Breast,Montana,1,0.3,1.8,1,0
+Both,Breast,North Carolina,0.8,0.6,0.9,1,0
+Both,Breast,North Dakota,0.8,0.2,1.4,1,0
+Both,Breast,Nebraska,0.3,-0.2,0.8,0,0
+Both,Breast,New Hampshire,0.7,0.2,1.1,1,0
+Both,Breast,New Jersey,0.5,0.3,0.7,1,0
+Both,Breast,New Mexico,-0.3,-0.8,0.3,0,0
+Both,Breast,Nevada,0.6,0.1,1,1,0
+Both,Breast,New York,0.8,0.5,1.1,1,0
+Both,Breast,Ohio,0.7,0.5,0.9,1,0
+Both,Breast,Oklahoma,0.1,-0.2,0.5,0,0
+Both,Breast,Oregon,0.1,-0.3,0.4,0,0
+Both,Breast,Pennsylvania,0.5,0.3,0.7,1,0
+Both,Breast,Rhode Island,0.5,0.1,0.9,1,0
+Both,Breast,South Carolina,0.7,0.5,1,1,0
+Both,Breast,South Dakota,0.9,0.2,1.5,1,0
+Both,Breast,Tennessee,0,-0.3,0.4,0,0
+Both,Breast,Texas,0.4,0.1,0.6,1,0
+Both,Breast,Utah,1,0.6,1.4,1,0
+Both,Breast,Virginia,0.3,0,0.7,0,0
+Both,Breast,Vermont,0.3,-0.2,0.9,0,0
+Both,Breast,Washington,0.4,0.2,0.6,1,0
+Both,Breast,Wisconsin,1.1,0.9,1.3,1,0
+Both,Breast,West Virginia,0.5,0,1,0,0
+Both,Breast,Wyoming,0.9,-0.1,1.8,0,0
+Female,Breast,Alaska,0.7,0.1,1.3,1,0
+Female,Breast,Alabama,0.4,0.2,0.7,1,0
+Female,Breast,Arkansas,0.5,0.1,0.8,1,0
+Female,Breast,Arizona,0.5,0.1,0.8,1,0
+Female,Breast,California,0.6,0.5,0.8,1,0
+Female,Breast,Colorado,0.9,0.6,1.2,1,0
+Female,Breast,Connecticut,0.6,0.2,0.9,1,0
+Female,Breast,District of Columbia,-0.4,-1.7,0.9,0,0
+Female,Breast,Delaware,0.9,0.2,1.6,1,0
+Female,Breast,Florida,0.3,0,0.6,0,0
+Female,Breast,Georgia,0.4,0.2,0.6,1,0
+Female,Breast,Hawaii,1.1,0.7,1.6,1,0
+Female,Breast,Idaho,1.4,0.7,2,1,0
+Female,Breast,Illinois,0.7,0.5,0.9,1,0
+Female,Breast,Indiana,0.5,0.2,0.9,1,0
+Female,Breast,Iowa,0.8,0.4,1.2,1,1
+Female,Breast,Kansas,0.5,0.1,0.8,1,0
+Female,Breast,Kentucky,0.6,0.2,0.9,1,0
+Female,Breast,Louisiana,0.7,0.4,1,1,0
+Female,Breast,Massachusetts,0.6,0.3,0.8,1,0
+Female,Breast,Maryland,0.5,0.2,0.7,1,0
+Female,Breast,Maine,0.7,0.3,1.2,1,0
+Female,Breast,Michigan,0.4,0.2,0.7,1,0
+Female,Breast,Minnesota,1.2,1,1.4,1,0
+Female,Breast,Missouri,0.8,0.5,1,1,0
+Female,Breast,Montana,1.3,0.5,2,1,0
+Female,Breast,North Carolina,0.7,0.6,0.9,1,0
+Female,Breast,North Dakota,1.1,0.5,1.7,1,0
+Female,Breast,Nebraska,0.4,-0.1,0.9,0,0
+Female,Breast,New Hampshire,0.7,0.3,1.2,1,0
+Female,Breast,New Jersey,0.6,0.3,0.8,1,0
+Female,Breast,New Mexico,-0.1,-0.7,0.4,0,0
+Female,Breast,Nevada,0.5,0.1,0.9,1,0
+Female,Breast,New York,0.9,0.6,1.2,1,0
+Female,Breast,Ohio,0.8,0.5,1,1,0
+Female,Breast,Oklahoma,0.2,-0.1,0.5,0,0
+Female,Breast,Oregon,0.2,-0.2,0.5,0,0
+Female,Breast,Pennsylvania,0.6,0.4,0.8,1,0
+Female,Breast,Rhode Island,0.6,0.2,1,1,0
+Female,Breast,South Carolina,0.7,0.5,1,1,0
+Female,Breast,South Dakota,1,0.4,1.7,1,0
+Female,Breast,Tennessee,0.1,-0.2,0.4,0,0
+Female,Breast,Texas,0.4,0.2,0.7,1,0
+Female,Breast,Utah,1.1,0.7,1.5,1,0
+Female,Breast,Virginia,0.4,0.1,0.8,1,0
+Female,Breast,Vermont,0.4,-0.1,1,0,0
+Female,Breast,Washington,0.5,0.3,0.8,1,0
+Female,Breast,Wisconsin,1.2,1,1.4,1,0
+Female,Breast,West Virginia,0.6,0.2,1.1,1,0
+Female,Breast,Wyoming,1.1,0.2,2.1,1,0
+Both,Oral Cavity,Alaska,,,,,0
+Both,Oral Cavity,Alabama,,,,,0
+Both,Oral Cavity,Arkansas,,,,,0
+Both,Oral Cavity,Arizona,2.5,1.3,3.9,1,0
+Both,Oral Cavity,California,,,,,0
+Both,Oral Cavity,Colorado,,,,,0
+Both,Oral Cavity,Connecticut,-0.9,-2.1,0.4,0,0
+Both,Oral Cavity,District of Columbia,,,,,0
+Both,Oral Cavity,Delaware,,,,,0
+Both,Oral Cavity,Florida,,,,,0
+Both,Oral Cavity,Georgia,,,,,0
+Both,Oral Cavity,Hawaii,,,,,0
+Both,Oral Cavity,Idaho,0.6,-0.8,2.1,0,0
+Both,Oral Cavity,Illinois,,,,,0
+Both,Oral Cavity,Indiana,,,,,0
+Both,Oral Cavity,Iowa,,,,,1
+Both,Oral Cavity,Kansas,1.5,0.1,2.9,1,0
+Both,Oral Cavity,Kentucky,1.7,0.3,3.1,1,0
+Both,Oral Cavity,Louisiana,-2.2,-3.6,-0.8,1,0
+Both,Oral Cavity,Massachusetts,-2.4,-3.8,-1.1,1,0
+Both,Oral Cavity,Maryland,0.9,-0.4,2.2,0,0
+Both,Oral Cavity,Maine,,,,,0
+Both,Oral Cavity,Michigan,1,-0.2,2.3,0,0
+Both,Oral Cavity,Minnesota,-1.2,-2,-0.3,1,0
+Both,Oral Cavity,Missouri,-1.6,-2.6,-0.5,1,0
+Both,Oral Cavity,Montana,1.5,0.9,2.1,1,0
+Both,Oral Cavity,North Carolina,1.2,0.6,1.8,1,0
+Both,Oral Cavity,North Dakota,1.8,1,2.7,1,0
+Both,Oral Cavity,Nebraska,1.3,0.8,1.9,1,0
+Both,Oral Cavity,New Hampshire,0.3,-0.5,1.1,0,0
+Both,Oral Cavity,New Jersey,2.7,1.7,3.7,1,0
+Both,Oral Cavity,New Mexico,-4.6,-5.6,-3.6,1,0
+Both,Oral Cavity,Nevada,-4.9,-5.9,-3.9,1,0
+Both,Oral Cavity,New York,-4.1,-5.5,-2.7,1,0
+Both,Oral Cavity,Ohio,1.1,0.3,2,1,0
+Both,Oral Cavity,Oklahoma,0.3,-0.9,1.6,0,0
+Both,Oral Cavity,Oregon,1.7,0.9,2.5,1,0
+Both,Oral Cavity,Pennsylvania,0.6,-0.2,1.5,0,0
+Both,Oral Cavity,Rhode Island,0.6,-0.2,1.5,0,0
+Both,Oral Cavity,South Carolina,1.2,0.6,1.8,1,0
+Both,Oral Cavity,South Dakota,1.2,0.6,1.8,1,0
+Both,Oral Cavity,Tennessee,-0.7,-1.6,0.1,0,0
+Both,Oral Cavity,Texas,-0.7,-1.6,0.1,0,0
+Both,Oral Cavity,Utah,1.9,1,2.8,1,0
+Both,Oral Cavity,Virginia,2.6,1,4.2,1,0
+Both,Oral Cavity,Vermont,1.7,0.7,2.7,1,0
+Both,Oral Cavity,Washington,-0.5,-1.3,0.3,0,0
+Both,Oral Cavity,Wisconsin,-0.6,-1.5,0.3,0,0
+Both,Oral Cavity,West Virginia,,,,,0
+Both,Oral Cavity,Wyoming,1.9,1.1,2.8,1,0
+Male,Oral Cavity,Alaska,2.1,0.9,3.2,1,0
+Male,Oral Cavity,Alabama,1.8,0.8,2.8,1,0
+Male,Oral Cavity,Arkansas,1,0.2,1.8,1,0
+Male,Oral Cavity,Arizona,0.3,-0.8,1.4,0,0
+Male,Oral Cavity,California,1.9,0.7,3.1,1,0
+Male,Oral Cavity,Colorado,-4,-4.9,-3.1,1,0
+Male,Oral Cavity,Connecticut,-6,-7.1,-4.8,1,0
+Male,Oral Cavity,District of Columbia,-1.9,-2.9,-0.8,1,0
+Male,Oral Cavity,Delaware,2.8,1.8,3.8,1,0
+Male,Oral Cavity,Florida,1.6,0.3,2.8,1,0
+Male,Oral Cavity,Georgia,3.7,2.5,5,1,0
+Male,Oral Cavity,Hawaii,-0.1,-1,0.8,0,0
+Male,Oral Cavity,Idaho,-0.1,-0.9,0.8,0,0
+Male,Oral Cavity,Illinois,2,1.2,2.9,1,0
+Male,Oral Cavity,Indiana,2.1,1.3,2.9,1,0
+Male,Oral Cavity,Iowa,-0.1,-1,0.8,0,1
+Male,Oral Cavity,Kansas,3.9,2.3,5.5,1,0
+Male,Oral Cavity,Kentucky,,,,,0
+Male,Oral Cavity,Louisiana,3.9,2.2,5.6,1,0
+Male,Oral Cavity,Massachusetts,-1.4,-2.3,-0.5,1,0
+Male,Oral Cavity,Maryland,-1.8,-2.9,-0.7,1,0
+Male,Oral Cavity,Maine,-0.5,-2,1,0,0
+Male,Oral Cavity,Michigan,2.4,1.8,3,1,0
+Male,Oral Cavity,Minnesota,2.3,1.5,3,1,0
+Male,Oral Cavity,Missouri,2.5,1.9,3.2,1,0
+Male,Oral Cavity,Montana,-0.1,-0.7,0.5,0,0
+Male,Oral Cavity,North Carolina,1.8,1.1,2.5,1,0
+Male,Oral Cavity,North Dakota,-4.7,-5.3,-4.1,1,0
+Male,Oral Cavity,Nebraska,-5.9,-6.8,-4.9,1,0
+Male,Oral Cavity,New Hampshire,-3.7,-4.8,-2.5,1,0
+Male,Oral Cavity,New Jersey,1.1,0,2.2,0,0
+Male,Oral Cavity,New Mexico,0.8,-0.4,2,0,0
+Male,Oral Cavity,Nevada,1.3,0.2,2.5,1,0
+Male,Oral Cavity,New York,-1,-1.6,-0.4,1,0
+Male,Oral Cavity,Ohio,-1,-1.5,-0.4,1,0
+Male,Oral Cavity,Oklahoma,1.4,0.9,2,1,0
+Male,Oral Cavity,Oregon,1.5,0.9,2,1,0
+Male,Oral Cavity,Pennsylvania,-0.7,-1.4,0,0,0
+Male,Oral Cavity,Rhode Island,-0.8,-1.5,-0.1,1,0
+Male,Oral Cavity,South Carolina,0.4,-1,1.7,0,0
+Male,Oral Cavity,South Dakota,0.8,-0.4,2,0,0
+Male,Oral Cavity,Tennessee,0.3,-1.1,1.7,0,0
+Male,Oral Cavity,Texas,-1.3,-1.6,-1.1,1,0
+Male,Oral Cavity,Utah,-1.7,-2.1,-1.3,1,0
+Male,Oral Cavity,Virginia,-0.6,-1.2,-0.1,1,0
+Male,Oral Cavity,Vermont,2.5,2.2,2.8,1,0
+Male,Oral Cavity,Washington,2.4,2.1,2.7,1,0
+Male,Oral Cavity,Wisconsin,2.6,2.3,3,1,0
+Male,Oral Cavity,West Virginia,0.2,-0.1,0.4,0,0
+Male,Oral Cavity,Wyoming,-0.8,-1.2,-0.5,1,0
+Female,Oral Cavity,Alaska,1.5,1.1,2,1,0
+Female,Oral Cavity,Alabama,-3.7,-4.1,-3.2,1,0
+Female,Oral Cavity,Arkansas,-4.3,-4.8,-3.9,1,0
+Female,Oral Cavity,Arizona,-3.1,-3.6,-2.5,1,0
+Female,Oral Cavity,California,-1.5,-1.9,-1.1,1,0
+Female,Oral Cavity,Colorado,-2.1,-2.5,-1.6,1,0
+Female,Oral Cavity,Connecticut,-1,-1.4,-0.6,1,0
+Female,Oral Cavity,District of Columbia,-0.8,-1.2,-0.4,1,0
+Female,Oral Cavity,Delaware,-0.8,-1.1,-0.4,1,0
+Female,Oral Cavity,Florida,1.4,1.1,1.7,1,0
+Female,Oral Cavity,Georgia,1.5,1.2,1.8,1,0
+Female,Oral Cavity,Hawaii,-0.5,-0.9,-0.2,1,0
+Female,Oral Cavity,Idaho,-0.6,-1,-0.3,1,0
+Female,Oral Cavity,Illinois,2.5,1.7,3.3,1,0
+Female,Oral Cavity,Indiana,3.1,2.4,3.7,1,0
+Female,Oral Cavity,Iowa,2.4,1.6,3.3,1,1
+Female,Oral Cavity,Kansas,-1,-1.9,0,0,0
+Female,Oral Cavity,Kentucky,-0.4,-1.4,0.7,0,0
+Female,Oral Cavity,Louisiana,3.2,2.6,3.7,1,0
+Female,Oral Cavity,Massachusetts,3.2,2.6,3.9,1,0
+Female,Oral Cavity,Maryland,3.1,2.3,3.9,1,0
+Female,Oral Cavity,Maine,0.7,0.1,1.3,1,0
+Female,Oral Cavity,Michigan,-0.2,-0.9,0.5,0,0
+Female,Oral Cavity,Minnesota,1.9,1.1,2.8,1,0
+Female,Oral Cavity,Missouri,-3.1,-3.9,-2.4,1,0
+Female,Oral Cavity,Montana,-2.4,-3.6,-1.3,1,0
+Female,Oral Cavity,North Carolina,-2.2,-2.7,-1.7,1,0
+Female,Oral Cavity,North Dakota,-2.4,-2.9,-1.9,1,0
+Female,Oral Cavity,Nebraska,-2,-2.7,-1.3,1,0
+Female,Oral Cavity,New Hampshire,-1,-1.8,-0.3,1,0
+Female,Oral Cavity,New Jersey,-0.9,-1.7,-0.2,1,0
+Female,Oral Cavity,New Mexico,-0.6,-1.1,-0.1,1,0
+Female,Oral Cavity,Nevada,-0.4,-0.9,0.1,0,0
+Female,Oral Cavity,New York,-1.5,-2.1,-0.8,1,0
+Female,Oral Cavity,Ohio,-1.6,-2.3,-0.9,1,0
+Female,Oral Cavity,Oklahoma,1.5,0.3,2.7,1,0
+Female,Oral Cavity,Oregon,1.9,0.2,3.5,1,0
+Female,Oral Cavity,Pennsylvania,1.5,0.4,2.7,1,0
+Female,Oral Cavity,Rhode Island,0,-0.9,1,0,0
+Female,Oral Cavity,South Carolina,-0.8,-2.2,0.6,0,0
+Female,Oral Cavity,South Dakota,,,,,0
+Female,Oral Cavity,Tennessee,2.7,1.9,3.6,1,0
+Female,Oral Cavity,Texas,2.4,1.5,3.3,1,0
+Female,Oral Cavity,Utah,3,1.8,4.2,1,0
+Female,Oral Cavity,Virginia,0.8,0.2,1.5,1,0
+Female,Oral Cavity,Vermont,0,-0.8,0.9,0,0
+Female,Oral Cavity,Washington,1.9,0.9,2.9,1,0
+Female,Oral Cavity,Wisconsin,-3.6,-4.3,-3,1,0
+Female,Oral Cavity,West Virginia,-3.8,-4.8,-2.8,1,0
+Female,Oral Cavity,Wyoming,-3.4,-4.3,-2.5,1,0
+Both,Colorectal,Alaska,-3.9,-4.8,-3,1,0
+Both,Colorectal,Alabama,-4.2,-5.2,-3.2,1,0
+Both,Colorectal,Arkansas,-3.6,-4.7,-2.5,1,0
+Both,Colorectal,Arizona,-0.1,-1.2,1,0,0
+Both,Colorectal,California,0,-1.1,1,0,0
+Both,Colorectal,Colorado,0,-0.8,0.7,0,0
+Both,Colorectal,Connecticut,0,-0.7,0.7,0,0
+Both,Colorectal,District of Columbia,-0.9,-1.7,-0.1,1,0
+Both,Colorectal,Delaware,-1,-1.8,-0.2,1,0
+Both,Colorectal,Florida,1.8,0.6,3,1,0
+Both,Colorectal,Georgia,2.1,0.9,3.4,1,0
+Both,Colorectal,Hawaii,1.8,0.6,3,1,0
+Both,Colorectal,Idaho,,,,,0
+Both,Colorectal,Illinois,,,,,0
+Both,Colorectal,Indiana,,,,,0
+Both,Colorectal,Iowa,1.8,0.8,2.8,1,1
+Both,Colorectal,Kansas,,,,,0
+Both,Colorectal,Kentucky,-0.3,-1.7,1.1,0,0
+Both,Colorectal,Louisiana,,,,,0
+Both,Colorectal,Massachusetts,,,,,0
+Both,Colorectal,Maryland,,,,,0
+Both,Colorectal,Maine,,,,,0
+Both,Colorectal,Michigan,,,,,0
+Both,Colorectal,Minnesota,,,,,0
+Both,Colorectal,Missouri,,,,,0
+Both,Colorectal,Montana,,,,,0
+Both,Colorectal,North Carolina,,,,,0
+Both,Colorectal,North Dakota,,,,,0
+Both,Colorectal,Nebraska,,,,,0
+Both,Colorectal,New Hampshire,,,,,0
+Both,Colorectal,New Jersey,,,,,0
+Both,Colorectal,New Mexico,0.2,-2.3,2.7,0,0
+Both,Colorectal,Nevada,,,,,0
+Both,Colorectal,New York,-0.5,-3.1,2.2,0,0
+Both,Colorectal,Ohio,,,,,0
+Both,Colorectal,Oklahoma,,,,,0
+Both,Colorectal,Oregon,,,,,0
+Both,Colorectal,Pennsylvania,1.2,0,2.5,0,0
+Both,Colorectal,Rhode Island,,,,,0
+Both,Colorectal,South Carolina,,,,,0
+Both,Colorectal,South Dakota,0.3,-1.1,1.8,0,0
+Both,Colorectal,Tennessee,,,,,0
+Both,Colorectal,Texas,,,,,0
+Both,Colorectal,Utah,,,,,0
+Both,Colorectal,Virginia,,,,,0
+Both,Colorectal,Vermont,,,,,0
+Both,Colorectal,Washington,-1.1,-2.7,0.4,0,0
+Both,Colorectal,Wisconsin,,,,,0
+Both,Colorectal,West Virginia,-0.8,-2.3,0.8,0,0
+Both,Colorectal,Wyoming,,,,,0
+Male,Colorectal,Alaska,,,,,0
+Male,Colorectal,Alabama,,,,,0
+Male,Colorectal,Arkansas,,,,,0
+Male,Colorectal,Arizona,-1.4,-2.7,-0.1,1,0
+Male,Colorectal,California,-1.5,-2.8,-0.1,1,0
+Male,Colorectal,Colorado,2.8,1.5,4.1,1,0
+Male,Colorectal,Connecticut,,,,,0
+Male,Colorectal,District of Columbia,2.5,1.1,3.9,1,0
+Male,Colorectal,Delaware,-2.4,-2.7,-2,1,0
+Male,Colorectal,Florida,-2.7,-3,-2.3,1,0
+Male,Colorectal,Georgia,-1.7,-2.4,-1,1,0
+Male,Colorectal,Hawaii,1.5,1.2,1.9,1,0
+Male,Colorectal,Idaho,1.5,1,1.9,1,0
+Male,Colorectal,Illinois,1.6,1.1,2.1,1,0
+Male,Colorectal,Indiana,0.1,-0.3,0.4,0,0
+Male,Colorectal,Iowa,-0.9,-1.3,-0.4,1,1
+Male,Colorectal,Kansas,-4.9,-5.4,-4.4,1,0
+Male,Colorectal,Kentucky,-5.5,-6,-4.9,1,0
+Male,Colorectal,Louisiana,-4.4,-5,-3.8,1,0
+Male,Colorectal,Massachusetts,-0.3,-0.7,0.1,0,0
+Male,Colorectal,Maryland,-0.7,-1.1,-0.2,1,0
+Male,Colorectal,Maine,0.1,-0.4,0.6,0,0
+Male,Colorectal,Michigan,-0.5,-0.9,-0.1,1,0
+Male,Colorectal,Minnesota,-0.4,-0.8,0,0,0
+Male,Colorectal,Missouri,0.6,0.3,0.9,1,0
+Male,Colorectal,Montana,-1.5,-2,-1,1,0
+Male,Colorectal,North Carolina,-1.6,-2.1,-1,1,0
+Male,Colorectal,North Dakota,2.5,1.8,3.2,1,0
+Male,Colorectal,Nebraska,3,2.2,3.9,1,0
+Male,Colorectal,New Hampshire,2.4,1.7,3,1,0
+Male,Colorectal,New Jersey,-1.7,-2.2,-1.2,1,0
+Male,Colorectal,New Mexico,-2.1,-2.7,-1.5,1,0
+Male,Colorectal,Nevada,-0.9,-1.8,0.1,0,0
+Male,Colorectal,New York,1.8,1.4,2.3,1,0
+Male,Colorectal,Ohio,1.9,1.3,2.4,1,0
+Male,Colorectal,Oklahoma,1.8,1.2,2.4,1,0
+Male,Colorectal,Oregon,1,0.6,1.5,1,0
+Male,Colorectal,Pennsylvania,0.7,0.1,1.2,1,0
+Male,Colorectal,Rhode Island,1.6,0.9,2.2,1,0
+Male,Colorectal,South Carolina,-5.2,-5.7,-4.7,1,0
+Male,Colorectal,South Dakota,-5.7,-6.4,-4.9,1,0
+Male,Colorectal,Tennessee,-4.7,-5.5,-4,1,0
+Male,Colorectal,Texas,-0.4,-1,0.3,0,0
+Male,Colorectal,Utah,-0.9,-1.6,-0.3,1,0
+Male,Colorectal,Virginia,0,-0.7,0.7,0,0
+Male,Colorectal,Vermont,0.1,-0.4,0.5,0,0
+Male,Colorectal,Washington,0,-0.5,0.5,0,0
+Male,Colorectal,Wisconsin,1,0.5,1.4,1,0
+Male,Colorectal,West Virginia,0.9,0.4,1.4,1,0
+Male,Colorectal,Wyoming,-0.9,-1.5,-0.4,1,0
+Female,Colorectal,Alaska,-0.9,-1.4,-0.3,1,0
+Female,Colorectal,Alabama,2.1,1.3,3,1,0
+Female,Colorectal,Arkansas,2.8,1.8,3.8,1,0
+Female,Colorectal,Arizona,1.9,1,2.9,1,0
+Female,Colorectal,California,-0.5,-1.4,0.4,0,0
+Female,Colorectal,Colorado,,,,,0
+Female,Colorectal,Connecticut,,,,,0
+Female,Colorectal,District of Columbia,1.5,0.8,2.2,1,0
+Female,Colorectal,Delaware,0.5,-0.6,1.7,0,0
+Female,Colorectal,Florida,2.4,1,3.9,1,0
+Female,Colorectal,Georgia,0.1,-0.9,1.1,0,0
+Female,Colorectal,Hawaii,-0.8,-2,0.4,0,0
+Female,Colorectal,Idaho,,,,,0
+Female,Colorectal,Illinois,,,,,0
+Female,Colorectal,Indiana,,,,,0
+Female,Colorectal,Iowa,,,,,1
+Female,Colorectal,Kansas,-0.1,-1.8,1.7,0,0
+Female,Colorectal,Kentucky,0.2,-1.1,1.6,0,0
+Female,Colorectal,Louisiana,,,,,0
+Female,Colorectal,Massachusetts,,,,,0
+Female,Colorectal,Maryland,1.2,0.5,1.9,1,0
+Female,Colorectal,Maine,1.3,0.6,2,1,0
+Female,Colorectal,Michigan,-0.4,-1.8,0.9,0,0
+Female,Colorectal,Minnesota,-0.5,-1.9,0.8,0,0
+Female,Colorectal,Missouri,0.4,-1.2,1.9,0,0
+Female,Colorectal,Montana,0.3,-1.2,1.8,0,0
+Female,Colorectal,North Carolina,,,,,0
+Female,Colorectal,North Dakota,,,,,0
+Female,Colorectal,Nebraska,,,,,0
+Female,Colorectal,New Hampshire,2.9,2,3.8,1,0
+Female,Colorectal,New Jersey,2.3,1.2,3.4,1,0
+Female,Colorectal,New Mexico,3.6,2.3,4.8,1,0
+Female,Colorectal,Nevada,0.1,-1.2,1.4,0,0
+Female,Colorectal,New York,,,,,0
+Female,Colorectal,Ohio,,,,,0
+Female,Colorectal,Oklahoma,,,,,0
+Female,Colorectal,Oregon,,,,,0
+Female,Colorectal,Pennsylvania,,,,,0
+Female,Colorectal,Rhode Island,0.5,-0.3,1.3,0,0
+Female,Colorectal,South Carolina,0,-1.2,1.2,0,0
+Female,Colorectal,South Dakota,0.9,0,1.9,0,0
+Female,Colorectal,Tennessee,,,,,0
+Female,Colorectal,Texas,,,,,0
+Female,Colorectal,Utah,1,-0.2,2.2,0,0
+Female,Colorectal,Virginia,1.1,0,2.3,0,0
+Female,Colorectal,Vermont,-0.9,-1.9,0.1,0,0
+Female,Colorectal,Washington,-1,-2,0.1,0,0
+Female,Colorectal,Wisconsin,0.1,-1.4,1.7,0,0
+Female,Colorectal,West Virginia,,,,,0
+Female,Colorectal,Wyoming,-0.3,-2,1.4,0,0
+Both,Other Digestive,Alaska,-1.3,-1.8,-0.7,1,0
+Both,Other Digestive,Alabama,-1.4,-1.9,-0.8,1,0
+Both,Other Digestive,Arkansas,-1.2,-2.2,-0.3,1,0
+Both,Other Digestive,Arizona,2,1.5,2.5,1,0
+Both,Other Digestive,California,2.2,1.6,2.8,1,0
+Both,Other Digestive,Colorado,1.7,1.1,2.3,1,0
+Both,Other Digestive,Connecticut,0.8,0.4,1.1,1,0
+Both,Other Digestive,District of Columbia,-0.1,-0.5,0.4,0,0
+Both,Other Digestive,Delaware,1.9,1.5,2.4,1,0
+Both,Other Digestive,Florida,-4.4,-4.9,-3.9,1,0
+Both,Other Digestive,Georgia,-5,-5.6,-4.5,1,0
+Both,Other Digestive,Hawaii,-3.8,-4.5,-3,1,0
+Both,Other Digestive,Idaho,1.7,1.2,2.2,1,0
+Both,Other Digestive,Illinois,0.7,0.2,1.3,1,0
+Both,Other Digestive,Indiana,2.3,1.7,2.9,1,0
+Both,Other Digestive,Iowa,-1.4,-1.9,-0.8,1,1
+Both,Other Digestive,Kansas,0.5,0.2,0.8,1,0
+Both,Other Digestive,Kentucky,0.6,0.3,0.8,1,0
+Both,Other Digestive,Louisiana,0,-0.6,0.5,0,0
+Both,Other Digestive,Massachusetts,-0.1,-0.7,0.5,0,0
+Both,Other Digestive,Maryland,1.9,0.7,3.1,1,0
+Both,Other Digestive,Maine,2.8,1.6,4.1,1,0
+Both,Other Digestive,Michigan,1.7,0.5,2.9,1,0
+Both,Other Digestive,Minnesota,-0.2,-0.9,0.5,0,0
+Both,Other Digestive,Missouri,-0.3,-1.1,0.4,0,0
+Both,Other Digestive,Montana,2.2,1.6,2.7,1,0
+Both,Other Digestive,North Carolina,2.2,1.6,2.8,1,0
+Both,Other Digestive,North Dakota,2.1,1.4,2.8,1,0
+Both,Other Digestive,Nebraska,1,0.6,1.4,1,0
+Both,Other Digestive,New Hampshire,0.3,-0.3,0.9,0,0
+Both,Other Digestive,New Jersey,2,1.2,2.8,1,0
+Both,Other Digestive,New Mexico,-3.5,-4.3,-2.7,1,0
+Both,Other Digestive,Nevada,-4.4,-5.3,-3.4,1,0
+Both,Other Digestive,New York,-2.7,-3.6,-1.8,1,0
+Both,Other Digestive,Ohio,-0.5,-1.3,0.3,0,0
+Both,Other Digestive,Oklahoma,-1.5,-2.5,-0.5,1,0
+Both,Other Digestive,Oregon,0.1,-0.7,0.9,0,0
+Both,Other Digestive,Pennsylvania,0.2,-0.5,0.9,0,0
+Both,Other Digestive,Rhode Island,0.2,-0.5,0.9,0,0
+Both,Other Digestive,South Carolina,0.7,0.2,1.3,1,0
+Both,Other Digestive,South Dakota,0.8,0.3,1.3,1,0
+Both,Other Digestive,Tennessee,-0.2,-0.7,0.4,0,0
+Both,Other Digestive,Texas,-0.2,-0.8,0.3,0,0
+Both,Other Digestive,Utah,2.1,1.1,3.1,1,0
+Both,Other Digestive,Virginia,2.5,1.2,3.7,1,0
+Both,Other Digestive,Vermont,2,1,3.1,1,0
+Both,Other Digestive,Washington,0,-0.4,0.5,0,0
+Both,Other Digestive,Wisconsin,0.3,-0.5,1,0,0
+Both,Other Digestive,West Virginia,,,,,0
+Both,Other Digestive,Wyoming,2.9,2.3,3.5,1,0
+Male,Other Digestive,Alaska,2.5,1.9,3.1,1,0
+Male,Other Digestive,Alabama,3.3,2.3,4.4,1,0
+Male,Other Digestive,Arkansas,0.6,0,1.2,0,0
+Male,Other Digestive,Arizona,0.5,-0.5,1.5,0,0
+Male,Other Digestive,California,0.8,-0.2,1.7,0,0
+Male,Other Digestive,Colorado,-3.3,-4.4,-2.3,1,0
+Male,Other Digestive,Connecticut,-3.2,-4.6,-1.9,1,0
+Male,Other Digestive,District of Columbia,-3.2,-4.6,-1.8,1,0
+Male,Other Digestive,Delaware,1.8,1.1,2.4,1,0
+Male,Other Digestive,Florida,0.7,-0.1,1.6,0,0
+Male,Other Digestive,Georgia,2.4,1.6,3.1,1,0
+Male,Other Digestive,Hawaii,0.6,-0.6,1.7,0,0
+Male,Other Digestive,Idaho,0.7,-0.5,1.8,0,0
+Male,Other Digestive,Illinois,0.1,-0.7,0.9,0,0
+Male,Other Digestive,Indiana,0.2,-0.6,1,0,0
+Male,Other Digestive,Iowa,-0.4,-1,0.2,0,1
+Male,Other Digestive,Kansas,1.8,0.9,2.7,1,0
+Male,Other Digestive,Kentucky,2,0.6,3.4,1,0
+Male,Other Digestive,Louisiana,1.8,0.9,2.7,1,0
+Male,Other Digestive,Massachusetts,,,,,0
+Male,Other Digestive,Maryland,,,,,0
+Male,Other Digestive,Maine,,,,,0
+Male,Other Digestive,Michigan,,,,,0
+Male,Other Digestive,Minnesota,,,,,0
+Male,Other Digestive,Missouri,,,,,0
+Male,Other Digestive,Montana,,,,,0
+Male,Other Digestive,North Carolina,,,,,0
+Male,Other Digestive,North Dakota,,,,,0
+Male,Other Digestive,Nebraska,,,,,0
+Male,Other Digestive,New Hampshire,,,,,0
+Male,Other Digestive,New Jersey,,,,,0
+Male,Other Digestive,New Mexico,,,,,0
+Male,Other Digestive,Nevada,,,,,0
+Male,Other Digestive,New York,,,,,0
+Male,Other Digestive,Ohio,,,,,0
+Male,Other Digestive,Oklahoma,,,,,0
+Male,Other Digestive,Oregon,,,,,0
+Male,Other Digestive,Pennsylvania,,,,,0
+Male,Other Digestive,Rhode Island,,,,,0
+Male,Other Digestive,South Carolina,,,,,0
+Male,Other Digestive,South Dakota,,,,,0
+Male,Other Digestive,Tennessee,,,,,0
+Male,Other Digestive,Texas,-0.3,-1.1,0.6,0,0
+Male,Other Digestive,Utah,-0.6,-1.7,0.6,0,0
+Male,Other Digestive,Virginia,,,,,0
+Male,Other Digestive,Vermont,2,1.4,2.5,1,0
+Male,Other Digestive,Washington,2,1.2,2.8,1,0
+Male,Other Digestive,Wisconsin,1.9,1.1,2.8,1,0
+Male,Other Digestive,West Virginia,1.1,0.6,1.7,1,0
+Male,Other Digestive,Wyoming,0.8,0.1,1.4,1,0
+Female,Other Digestive,Alaska,1.6,0.7,2.6,1,0
+Female,Other Digestive,Alabama,-4.1,-5.2,-3.1,1,0
+Female,Other Digestive,Arkansas,-4.4,-5.8,-3,1,0
+Female,Other Digestive,Arizona,,,,,0
+Female,Other Digestive,California,0.6,0.1,1.2,1,0
+Female,Other Digestive,Colorado,-0.2,-1,0.6,0,0
+Female,Other Digestive,Connecticut,1.3,0.6,1.9,1,0
+Female,Other Digestive,District of Columbia,0.6,-0.4,1.5,0,0
+Female,Other Digestive,Delaware,0.7,-0.3,1.6,0,0
+Female,Other Digestive,Florida,0.4,-0.3,1,0,0
+Female,Other Digestive,Georgia,0.5,-0.2,1.1,0,0
+Female,Other Digestive,Hawaii,-0.2,-1,0.6,0,0
+Female,Other Digestive,Idaho,-0.4,-1.2,0.5,0,0
+Female,Other Digestive,Illinois,1.8,0.6,3.1,1,0
+Female,Other Digestive,Indiana,2.5,0.8,4.3,1,0
+Female,Other Digestive,Iowa,1.8,0.5,3.1,1,1
+Female,Other Digestive,Kansas,-1.5,-2.3,-0.6,1,0
+Female,Other Digestive,Kentucky,0.6,-0.7,1.9,0,0
+Female,Other Digestive,Louisiana,2.2,1.6,2.7,1,0
+Female,Other Digestive,Massachusetts,2.2,1.7,2.7,1,0
+Female,Other Digestive,Maryland,2.1,1.1,3,1,0
+Female,Other Digestive,Maine,1.8,1.2,2.4,1,0
+Female,Other Digestive,Michigan,0.9,0,1.8,0,0
+Female,Other Digestive,Minnesota,2.9,2.1,3.7,1,0
+Female,Other Digestive,Missouri,-3.4,-4.3,-2.5,1,0
+Female,Other Digestive,Montana,-2.6,-4,-1.3,1,0
+Female,Other Digestive,North Carolina,0.5,0,1.1,0,0
+Female,Other Digestive,North Dakota,-0.6,-1.5,0.3,0,0
+Female,Other Digestive,Nebraska,1.3,0.7,1.9,1,0
+Female,Other Digestive,New Hampshire,0.6,-0.3,1.4,0,0
+Female,Other Digestive,New Jersey,0.7,-0.2,1.5,0,0
+Female,Other Digestive,New Mexico,1,0.6,1.5,1,0
+Female,Other Digestive,Nevada,1.1,0.6,1.6,1,0
+Female,Other Digestive,New York,-0.3,-0.9,0.3,0,0
+Female,Other Digestive,Ohio,-0.4,-1,0.2,0,0
+Female,Other Digestive,Oklahoma,2.4,1.1,3.7,1,0
+Female,Other Digestive,Oregon,2.8,1,4.5,1,0
+Female,Other Digestive,Pennsylvania,2.4,1.1,3.6,1,0
+Female,Other Digestive,Rhode Island,-1.5,-2.1,-0.9,1,0
+Female,Other Digestive,South Carolina,-2.2,-2.9,-1.5,1,0
+Female,Other Digestive,South Dakota,-0.1,-1.4,1.3,0,0
+Female,Other Digestive,Tennessee,2.1,1.7,2.5,1,0
+Female,Other Digestive,Texas,2.1,1.5,2.7,1,0
+Female,Other Digestive,Utah,2.2,1.6,2.7,1,0
+Female,Other Digestive,Virginia,0.5,0,1.1,0,0
+Female,Other Digestive,Vermont,-0.7,-1.5,0,0,0
+Female,Other Digestive,Washington,2.3,1.4,3.3,1,0
+Female,Other Digestive,Wisconsin,-4.7,-5.4,-4,1,0
+Female,Other Digestive,West Virginia,-5,-5.8,-4.3,1,0
+Female,Other Digestive,Wyoming,-4.3,-5.3,-3.2,1,0
+Both,Lung,Alaska,1.9,1,2.8,1,0
+Both,Lung,Alabama,1.7,0.6,2.7,1,0
+Both,Lung,Arkansas,2.1,1.1,3.1,1,0
+Both,Lung,Arizona,-0.5,-1.1,0.1,0,0
+Both,Lung,California,-0.4,-1.1,0.2,0,0
+Both,Lung,Colorado,1.1,0.5,1.7,1,0
+Both,Lung,Connecticut,1.2,0.5,1.8,1,0
+Both,Lung,District of Columbia,0.6,-0.2,1.3,0,0
+Both,Lung,Delaware,0.5,-0.3,1.3,0,0
+Both,Lung,Florida,3.5,2.3,4.7,1,0
+Both,Lung,Georgia,3.3,1.7,4.8,1,0
+Both,Lung,Hawaii,3.6,2.4,4.9,1,0
+Both,Lung,Idaho,-1.1,-1.9,-0.3,1,0
+Both,Lung,Illinois,-1.2,-2.2,-0.2,1,0
+Both,Lung,Indiana,-1,-2.1,0.1,0,0
+Both,Lung,Iowa,1.6,1,2.1,1,1
+Both,Lung,Kansas,1.6,1,2.3,1,0
+Both,Lung,Kentucky,0.2,-0.3,0.8,0,0
+Both,Lung,Louisiana,-0.8,-1.5,-0.2,1,0
+Both,Lung,Massachusetts,1.8,0.9,2.6,1,0
+Both,Lung,Maryland,-4.7,-5.3,-4,1,0
+Both,Lung,Maine,-5.3,-6,-4.5,1,0
+Both,Lung,Michigan,-4.1,-5.2,-3.1,1,0
+Both,Lung,Minnesota,-3.7,-4.9,-2.6,1,0
+Both,Lung,Missouri,-4,-5,-2.9,1,0
+Both,Lung,Montana,-1,-1.8,-0.3,1,0
+Both,Lung,North Carolina,-1,-1.7,-0.3,1,0
+Both,Lung,North Dakota,-1.1,-1.7,-0.4,1,0
+Both,Lung,Nebraska,-1,-1.7,-0.3,1,0
+Both,Lung,New Hampshire,-2.5,-3.1,-1.8,1,0
+Both,Lung,New Jersey,-2.6,-3.2,-1.9,1,0
+Both,Lung,New Mexico,0.8,-0.9,2.5,0,0
+Both,Lung,Nevada,1.9,0.2,3.6,1,0
+Both,Lung,New York,0.6,-1.1,2.3,0,0
+Both,Lung,Ohio,-1,-1.5,-0.4,1,0
+Both,Lung,Oklahoma,-1.3,-2,-0.6,1,0
+Both,Lung,Oregon,-0.4,-1.6,0.8,0,0
+Both,Lung,Pennsylvania,1.9,1.4,2.4,1,0
+Both,Lung,Rhode Island,2,1.2,2.8,1,0
+Both,Lung,South Carolina,1.9,1.2,2.5,1,0
+Both,Lung,South Dakota,0.9,0.4,1.4,1,0
+Both,Lung,Tennessee,0.3,-0.4,1.1,0,0
+Both,Lung,Texas,1.5,1,2.1,1,0
+Both,Lung,Utah,-5.2,-6,-4.4,1,0
+Both,Lung,Virginia,-5.4,-6.3,-4.6,1,0
+Both,Lung,Vermont,-5,-6.1,-3.9,1,0
+Both,Lung,Washington,-1.6,-2.2,-1,1,0
+Both,Lung,Wisconsin,-2.1,-2.8,-1.4,1,0
+Both,Lung,West Virginia,-1.2,-2,-0.4,1,0
+Both,Lung,Wyoming,-1,-1.8,-0.2,1,0
+Male,Lung,Alaska,-0.9,-1.7,-0.1,1,0
+Male,Lung,Alabama,0.7,-0.1,1.4,0,0
+Male,Lung,Arkansas,0.8,0,1.5,0,0
+Male,Lung,Arizona,-0.8,-1.5,-0.1,1,0
+Male,Lung,California,-0.9,-1.6,-0.2,1,0
+Male,Lung,Colorado,1.1,0.1,2,1,0
+Male,Lung,Connecticut,1.8,0.6,3,1,0
+Male,Lung,District of Columbia,1,0,2,0,0
+Male,Lung,Delaware,-1,-2.1,0.2,0,0
+Male,Lung,Florida,,,,,0
+Male,Lung,Georgia,,,,,0
+Male,Lung,Hawaii,2.9,2.1,3.7,1,0
+Male,Lung,Idaho,2.8,1.4,4.2,1,0
+Male,Lung,Illinois,3,2.3,3.7,1,0
+Male,Lung,Indiana,1.2,0.2,2.3,1,0
+Male,Lung,Iowa,0.8,-0.6,2.1,0,1
+Male,Lung,Kansas,-2,-3.2,-0.7,1,0
+Male,Lung,Kentucky,,,,,0
+Male,Lung,Louisiana,,,,,0
+Male,Lung,Massachusetts,-0.3,-1.1,0.5,0,0
+Male,Lung,Maryland,-1.7,-3,-0.5,1,0
+Male,Lung,Maine,0.6,-0.4,1.7,0,0
+Male,Lung,Michigan,,,,,0
+Male,Lung,Minnesota,,,,,0
+Male,Lung,Missouri,0.2,-0.7,1,0,0
+Male,Lung,Montana,-0.8,-1.9,0.2,0,0
+Male,Lung,North Carolina,-0.9,-2,0.1,0,0
+Male,Lung,North Dakota,2,0.9,3.2,1,0
+Male,Lung,Nebraska,,,,,0
+Male,Lung,New Hampshire,2,0.9,3.1,1,0
+Male,Lung,New Jersey,-1.1,-1.7,-0.4,1,0
+Male,Lung,New Mexico,-1,-1.8,-0.1,1,0
+Male,Lung,Nevada,-1.3,-2.3,-0.3,1,0
+Male,Lung,New York,2.1,1.6,2.5,1,0
+Male,Lung,Ohio,2,1.5,2.5,1,0
+Male,Lung,Oklahoma,2.1,1.5,2.8,1,0
+Male,Lung,Oregon,0.5,0.2,0.8,1,0
+Male,Lung,Pennsylvania,-0.2,-0.6,0.1,0,0
+Male,Lung,Rhode Island,1.5,0.9,2,1,0
+Male,Lung,South Carolina,-3.8,-4.3,-3.2,1,0
+Male,Lung,South Dakota,-4,-4.6,-3.3,1,0
+Male,Lung,Tennessee,-3.6,-4.4,-2.7,1,0
+Male,Lung,Texas,-1.3,-1.7,-0.9,1,0
+Male,Lung,Utah,-2,-2.6,-1.4,1,0
+Male,Lung,Virginia,-0.8,-1.3,-0.3,1,0
+Male,Lung,Vermont,-0.8,-1.4,-0.3,1,0
+Male,Lung,Washington,-0.8,-1.3,-0.2,1,0
+Male,Lung,Wisconsin,-0.2,-0.6,0.2,0,0
+Male,Lung,West Virginia,-0.2,-0.6,0.2,0,0
+Male,Lung,Wyoming,-1.3,-1.7,-0.8,1,0
+Female,Lung,Alaska,-1.3,-1.8,-0.9,1,0
+Female,Lung,Alabama,1.7,0.6,2.8,1,0
+Female,Lung,Arkansas,2.4,1.2,3.7,1,0
+Female,Lung,Arizona,1.6,0.4,2.7,1,0
+Female,Lung,California,-0.5,-1.5,0.4,0,0
+Female,Lung,Colorado,-0.4,-1.4,0.6,0,0
+Female,Lung,Connecticut,-0.9,-2.2,0.5,0,0
+Female,Lung,District of Columbia,2.8,2.2,3.4,1,0
+Female,Lung,Delaware,2.9,2.1,3.7,1,0
+Female,Lung,Florida,2.6,1.8,3.3,1,0
+Female,Lung,Georgia,2.4,2,2.8,1,0
+Female,Lung,Hawaii,1.6,0.9,2.3,1,0
+Female,Lung,Idaho,3.5,2.7,4.2,1,0
+Female,Lung,Illinois,-3.6,-4.1,-3,1,0
+Female,Lung,Indiana,-4.1,-4.8,-3.3,1,0
+Female,Lung,Iowa,-3.1,-4,-2.3,1,1
+Female,Lung,Kansas,2.5,1.8,3.2,1,0
+Female,Lung,Kentucky,3.2,2.5,3.9,1,0
+Female,Lung,Louisiana,-1,-1.9,-0.1,1,0
+Female,Lung,Massachusetts,-0.9,-1.8,0,0,0
+Female,Lung,Maryland,0.3,-0.2,0.9,0,0
+Female,Lung,Maine,0.4,-0.2,1,0,0
+Female,Lung,Michigan,-0.9,-1.4,-0.4,1,0
+Female,Lung,Minnesota,-1,-1.5,-0.5,1,0
+Female,Lung,Missouri,1.7,0.7,2.6,1,0
+Female,Lung,Montana,1.6,0.6,2.7,1,0
+Female,Lung,North Carolina,-0.7,-1.4,0,0,0
+Female,Lung,North Dakota,-1,-1.7,-0.4,1,0
+Female,Lung,Nebraska,0.1,-1.5,1.7,0,0
+Female,Lung,New Hampshire,2,1.4,2.5,1,0
+Female,Lung,New Jersey,2,1.4,2.6,1,0
+Female,Lung,New Mexico,1.9,1.1,2.8,1,0
+Female,Lung,Nevada,1.1,0.5,1.6,1,0
+Female,Lung,New York,0.6,0,1.3,0,0
+Female,Lung,Ohio,1.6,0.8,2.5,1,0
+Female,Lung,Oklahoma,-4,-4.8,-3.1,1,0
+Female,Lung,Oregon,-4.2,-4.9,-3.4,1,0
+Female,Lung,Pennsylvania,-3.8,-5,-2.6,1,0
+Female,Lung,Rhode Island,0.6,-0.2,1.3,0,0
+Female,Lung,South Carolina,-0.1,-0.8,0.5,0,0
+Female,Lung,South Dakota,1.1,0.1,2.1,1,0
+Female,Lung,Tennessee,0.3,-0.3,0.9,0,0
+Female,Lung,Texas,0.4,-0.3,1,0,0
+Female,Lung,Utah,0.8,0.4,1.2,1,0
+Female,Lung,Virginia,0.9,0.4,1.3,1,0
+Female,Lung,Vermont,-0.7,-1.3,0,0,0
+Female,Lung,Washington,-0.7,-1.4,-0.1,1,0
+Female,Lung,Wisconsin,1.5,0.7,2.3,1,0
+Female,Lung,West Virginia,1.9,1.2,2.7,1,0
+Female,Lung,Wyoming,1.4,0.4,2.3,1,0
+Both,Melanoma,Alaska,,,,,0
+Both,Melanoma,Alabama,,,,,0
+Both,Melanoma,Arkansas,,,,,0
+Both,Melanoma,Arizona,,,,,0
+Both,Melanoma,California,,,,,0
+Both,Melanoma,Colorado,,,,,0
+Both,Melanoma,Connecticut,,,,,0
+Both,Melanoma,District of Columbia,,,,,0
+Both,Melanoma,Delaware,,,,,0
+Both,Melanoma,Florida,,,,,0
+Both,Melanoma,Georgia,,,,,0
+Both,Melanoma,Hawaii,,,,,0
+Both,Melanoma,Idaho,,,,,0
+Both,Melanoma,Illinois,,,,,0
+Both,Melanoma,Indiana,,,,,0
+Both,Melanoma,Iowa,,,,,1
+Both,Melanoma,Kansas,,,,,0
+Both,Melanoma,Kentucky,,,,,0
+Both,Melanoma,Louisiana,,,,,0
+Both,Melanoma,Massachusetts,,,,,0
+Both,Melanoma,Maryland,,,,,0
+Both,Melanoma,Maine,,,,,0
+Both,Melanoma,Michigan,,,,,0
+Both,Melanoma,Minnesota,,,,,0
+Both,Melanoma,Missouri,,,,,0
+Both,Melanoma,Montana,2.7,1.7,3.6,1,0
+Both,Melanoma,North Carolina,,,,,0
+Both,Melanoma,North Dakota,,,,,0
+Both,Melanoma,Nebraska,1.2,0,2.5,0,0
+Both,Melanoma,New Hampshire,,,,,0
+Both,Melanoma,New Jersey,,,,,0
+Both,Melanoma,New Mexico,,,,,0
+Both,Melanoma,Nevada,,,,,0
+Both,Melanoma,New York,,,,,0
+Both,Melanoma,Ohio,1.1,0.1,2.1,1,0
+Both,Melanoma,Oklahoma,1.5,0,3,0,0
+Both,Melanoma,Oregon,0.8,-0.3,1.9,0,0
+Both,Melanoma,Pennsylvania,,,,,0
+Both,Melanoma,Rhode Island,,,,,0
+Both,Melanoma,South Carolina,0.4,-0.8,1.5,0,0
+Both,Melanoma,South Dakota,0.6,-0.6,1.7,0,0
+Both,Melanoma,Tennessee,-0.4,-1.4,0.6,0,0
+Both,Melanoma,Texas,-0.6,-1.6,0.4,0,0
+Both,Melanoma,Utah,1,0.3,1.7,1,0
+Both,Melanoma,Virginia,,,,,0
+Both,Melanoma,Vermont,0.4,-0.3,1.1,0,0
+Both,Melanoma,Washington,-1.2,-1.9,-0.5,1,0
+Both,Melanoma,Wisconsin,-1.4,-2.1,-0.8,1,0
+Both,Melanoma,West Virginia,-0.7,-1.6,0.3,0,0
+Both,Melanoma,Wyoming,1.6,1.1,2,1,0
+Male,Melanoma,Alaska,1.5,1,2.1,1,0
+Male,Melanoma,Alabama,1.6,1,2.3,1,0
+Male,Melanoma,Arkansas,0.8,0.4,1.2,1,0
+Male,Melanoma,Arizona,-0.1,-0.8,0.5,0,0
+Male,Melanoma,California,2.1,1.5,2.7,1,0
+Male,Melanoma,Colorado,-4.1,-4.7,-3.4,1,0
+Male,Melanoma,Connecticut,-4.5,-5.2,-3.8,1,0
+Male,Melanoma,District of Columbia,-3.6,-4.4,-2.8,1,0
+Male,Melanoma,Delaware,0.8,0,1.6,0,0
+Male,Melanoma,Florida,0.3,-0.6,1.2,0,0
+Male,Melanoma,Georgia,1.1,0.2,2,1,0
+Male,Melanoma,Hawaii,-0.4,-0.9,0.1,0,0
+Male,Melanoma,Idaho,-0.4,-1,0.1,0,0
+Male,Melanoma,Illinois,0.7,0.2,1.3,1,0
+Male,Melanoma,Indiana,0.7,0.1,1.3,1,0
+Male,Melanoma,Iowa,-0.7,-1.3,-0.1,1,1
+Male,Melanoma,Kansas,1.8,0.4,3.3,1,0
+Male,Melanoma,Kentucky,2,-0.2,4.2,0,0
+Male,Melanoma,Louisiana,1.7,0.4,3.1,1,0
+Male,Melanoma,Massachusetts,,,,,0
+Male,Melanoma,Maryland,,,,,0
+Male,Melanoma,Maine,,,,,0
+Male,Melanoma,Michigan,,,,,0
+Male,Melanoma,Minnesota,,,,,0
+Male,Melanoma,Missouri,,,,,0
+Male,Melanoma,Montana,,,,,0
+Male,Melanoma,North Carolina,,,,,0
+Male,Melanoma,North Dakota,,,,,0
+Male,Melanoma,Nebraska,,,,,0
+Male,Melanoma,New Hampshire,,,,,0
+Male,Melanoma,New Jersey,4.3,2.6,6,1,0
+Male,Melanoma,New Mexico,,,,,0
+Male,Melanoma,Nevada,,,,,0
+Male,Melanoma,New York,,,,,0
+Male,Melanoma,Ohio,,,,,0
+Male,Melanoma,Oklahoma,,,,,0
+Male,Melanoma,Oregon,,,,,0
+Male,Melanoma,Pennsylvania,-0.7,-2,0.6,0,0
+Male,Melanoma,Rhode Island,-0.9,-2.2,0.4,0,0
+Male,Melanoma,South Carolina,3.8,2,5.7,1,0
+Male,Melanoma,South Dakota,,,,,0
+Male,Melanoma,Tennessee,,,,,0
+Male,Melanoma,Texas,0.3,-0.9,1.5,0,0
+Male,Melanoma,Utah,,,,,0
+Male,Melanoma,Virginia,,,,,0
+Male,Melanoma,Vermont,2.4,1.8,3.1,1,0
+Male,Melanoma,Washington,2.4,1.4,3.4,1,0
+Male,Melanoma,Wisconsin,2.4,1.2,3.6,1,0
+Male,Melanoma,West Virginia,2.2,1.5,2.9,1,0
+Male,Melanoma,Wyoming,1.4,0.4,2.5,1,0
+Female,Melanoma,Alaska,3.1,1.9,4.4,1,0
+Female,Melanoma,Alabama,-4.6,-5.8,-3.5,1,0
+Female,Melanoma,Arkansas,,,,,0
+Female,Melanoma,Arizona,,,,,0
+Female,Melanoma,California,2.4,1.2,3.7,1,0
+Female,Melanoma,Colorado,1.5,0,2.9,0,0
+Female,Melanoma,Connecticut,3.1,1.7,4.4,1,0
+Female,Melanoma,District of Columbia,-0.7,-2.3,0.8,0,0
+Female,Melanoma,Delaware,-0.6,-2.2,1,0,0
+Female,Melanoma,Florida,0.7,-0.2,1.7,0,0
+Female,Melanoma,Georgia,0.9,-0.1,1.8,0,0
+Female,Melanoma,Hawaii,-0.8,-1.5,-0.2,1,0
+Female,Melanoma,Idaho,-0.9,-1.6,-0.3,1,0
+Female,Melanoma,Illinois,2.6,1.9,3.3,1,0
+Female,Melanoma,Indiana,,,,,0
+Female,Melanoma,Iowa,2.7,1.9,3.5,1,1
+Female,Melanoma,Kansas,,,,,0
+Female,Melanoma,Kentucky,,,,,0
+Female,Melanoma,Louisiana,2.2,1.3,3.1,1,0
+Female,Melanoma,Massachusetts,2.4,1.3,3.6,1,0
+Female,Melanoma,Maryland,1.9,0.4,3.4,1,0
+Female,Melanoma,Maine,1.5,0.3,2.7,1,0
+Female,Melanoma,Michigan,0.8,-0.7,2.2,0,0
+Female,Melanoma,Minnesota,,,,,0
+Female,Melanoma,Missouri,-4,-5.3,-2.6,1,0
+Female,Melanoma,Montana,,,,,0
+Female,Melanoma,North Carolina,-3.1,-4.3,-2,1,0
+Female,Melanoma,North Dakota,,,,,0
+Female,Melanoma,Nebraska,-2.9,-4.3,-1.5,1,0
+Female,Melanoma,New Hampshire,,,,,0
+Female,Melanoma,New Jersey,,,,,0
+Female,Melanoma,New Mexico,-0.4,-1.6,0.8,0,0
+Female,Melanoma,Nevada,-0.3,-1.5,0.9,0,0
+Female,Melanoma,New York,-1.8,-2.8,-0.8,1,0
+Female,Melanoma,Ohio,-1.9,-2.9,-0.9,1,0
+Female,Melanoma,Oklahoma,2,0.3,3.7,1,0
+Female,Melanoma,Oregon,,,,,0
+Female,Melanoma,Pennsylvania,2,0.3,3.7,1,0
+Female,Melanoma,Rhode Island,-1.1,-1.7,-0.5,1,0
+Female,Melanoma,South Carolina,-1.6,-2.3,-1,1,0
+Female,Melanoma,South Dakota,-0.2,-1.2,0.9,0,0
+Female,Melanoma,Tennessee,1.6,1.1,2.1,1,0
+Female,Melanoma,Texas,1.5,1,2,1,0
+Female,Melanoma,Utah,1.7,1.2,2.3,1,0
+Female,Melanoma,Virginia,0.5,0,1.1,0,0
+Female,Melanoma,Vermont,-0.8,-1.4,-0.2,1,0
+Female,Melanoma,Washington,2.3,1.5,3.1,1,0
+Female,Melanoma,Wisconsin,-4.7,-5.2,-4.1,1,0
+Female,Melanoma,West Virginia,-4.8,-5.5,-4.2,1,0
+Female,Melanoma,Wyoming,-4.5,-5.2,-3.7,1,0
+Both,Cervical,Alaska,-2.6,-3.3,-1.9,1,0
+Both,Cervical,Alabama,-3.1,-3.8,-2.4,1,0
+Both,Cervical,Arkansas,-2.3,-3.2,-1.4,1,0
+Both,Cervical,Arizona,-1.8,-2.4,-1.2,1,0
+Both,Cervical,California,-1.7,-2.3,-1.1,1,0
+Both,Cervical,Colorado,-0.1,-0.5,0.4,0,0
+Both,Cervical,Connecticut,0,-0.4,0.5,0,0
+Both,Cervical,District of Columbia,-1,-1.5,-0.5,1,0
+Both,Cervical,Delaware,-1.1,-1.6,-0.6,1,0
+Both,Cervical,Florida,1.9,0.7,3,1,0
+Both,Cervical,Georgia,2.4,1,3.9,1,0
+Both,Cervical,Hawaii,1.8,0.7,2.9,1,0
+Both,Cervical,Idaho,,,,,0
+Both,Cervical,Illinois,,,,,0
+Both,Cervical,Indiana,,,,,0
+Both,Cervical,Iowa,2.5,1.5,3.5,1,1
+Both,Cervical,Kansas,2.1,0.8,3.5,1,0
+Both,Cervical,Kentucky,0.8,-0.1,1.7,0,0
+Both,Cervical,Louisiana,-0.2,-1.3,1,0,0
+Both,Cervical,Massachusetts,2.2,1.1,3.4,1,0
+Both,Cervical,Maryland,,,,,0
+Both,Cervical,Maine,,,,,0
+Both,Cervical,Michigan,,,,,0
+Both,Cervical,Minnesota,-3.4,-4.7,-2,1,0
+Both,Cervical,Missouri,-2.5,-4.2,-0.9,1,0
+Both,Cervical,Montana,0.7,-0.6,2,0,0
+Both,Cervical,North Carolina,0.9,-0.4,2.2,0,0
+Both,Cervical,North Dakota,1.1,0.3,2,1,0
+Both,Cervical,Nebraska,1.3,0.4,2.1,1,0
+Both,Cervical,New Hampshire,-0.5,-1.3,0.3,0,0
+Both,Cervical,New Jersey,-0.7,-1.5,0.1,0,0
+Both,Cervical,New Mexico,1.5,0.5,2.5,1,0
+Both,Cervical,Nevada,,,,,0
+Both,Cervical,New York,1.5,0.4,2.5,1,0
+Both,Cervical,Ohio,-0.7,-2.1,0.6,0,0
+Both,Cervical,Oklahoma,-1.3,-2.6,0,0,0
+Both,Cervical,Oregon,,,,,0
+Both,Cervical,Pennsylvania,1.8,1.1,2.5,1,0
+Both,Cervical,Rhode Island,1.5,0.8,2.3,1,0
+Both,Cervical,South Carolina,2,1,3.1,1,0
+Both,Cervical,South Dakota,-0.2,-1.1,0.7,0,0
+Both,Cervical,Tennessee,-0.6,-1.7,0.5,0,0
+Both,Cervical,Texas,0.4,-0.9,1.7,0,0
+Both,Cervical,Utah,-4.6,-5.3,-3.7,1,0
+Both,Cervical,Virginia,,,,,0
+Both,Cervical,Vermont,,,,,0
+Both,Cervical,Washington,-0.7,-2.1,0.8,0,0
+Both,Cervical,Wisconsin,-1.6,-3.3,0.1,0,0
+Both,Cervical,West Virginia,0.2,-1.5,1.9,0,0
+Both,Cervical,Wyoming,0.7,-0.5,1.9,0,0
+Female,Cervical,Alaska,0.6,-0.6,1.8,0,0
+Female,Cervical,Alabama,2,1,3,1,0
+Female,Cervical,Arkansas,1.9,0.9,2.9,1,0
+Female,Cervical,Arizona,-0.2,-0.8,0.5,0,0
+Female,Cervical,California,-0.1,-0.8,0.6,0,0
+Female,Cervical,Colorado,0.7,-0.5,2,0,0
+Female,Cervical,Connecticut,0.8,-0.6,2.2,0,0
+Female,Cervical,District of Columbia,0.7,-0.7,2,0,0
+Female,Cervical,Delaware,-1,-1.5,-0.6,1,0
+Female,Cervical,Florida,-1.4,-1.8,-0.9,1,0
+Female,Cervical,Georgia,-0.4,-1.2,0.3,0,0
+Female,Cervical,Hawaii,2,1.7,2.4,1,0
+Female,Cervical,Idaho,2.1,1.8,2.4,1,0
+Female,Cervical,Illinois,1.9,1.4,2.4,1,0
+Female,Cervical,Indiana,0.5,0.1,0.8,1,0
+Female,Cervical,Iowa,-0.3,-0.7,0.1,0,1
+Female,Cervical,Kansas,-3.6,-4,-3.3,1,0
+Female,Cervical,Kentucky,-3.9,-4.3,-3.5,1,0
+Female,Cervical,Louisiana,-3.4,-4,-2.8,1,0
+Female,Cervical,Massachusetts,-0.5,-1.3,0.3,0,0
+Female,Cervical,Maryland,-1.1,-1.9,-0.2,1,0
+Female,Cervical,Maine,-0.1,-1,0.8,0,0
+Female,Cervical,Michigan,-1.2,-1.6,-0.7,1,0
+Female,Cervical,Minnesota,-1.1,-1.6,-0.6,1,0
+Female,Cervical,Missouri,0.1,-0.2,0.4,0,0
+Female,Cervical,Montana,-0.5,-1.1,0.2,0,0
+Female,Cervical,North Carolina,-0.6,-1.2,0.1,0,0
+Female,Cervical,North Dakota,3,1.8,4.3,1,0
+Female,Cervical,Nebraska,3.8,2.5,5,1,0
+Female,Cervical,New Hampshire,2.9,1.7,4.2,1,0
+Female,Cervical,New Jersey,0,-0.6,0.7,0,0
+Female,Cervical,New Mexico,-0.4,-1.1,0.3,0,0
+Female,Cervical,Nevada,0.9,0,1.8,0,0
+Female,Cervical,New York,2.2,1.8,2.5,1,0
+Female,Cervical,Ohio,2.4,1.9,2.9,1,0
+Female,Cervical,Oklahoma,2,1.5,2.5,1,0
+Female,Cervical,Oregon,1.1,0.6,1.5,1,0
+Female,Cervical,Pennsylvania,0.9,0.3,1.4,1,0
+Female,Cervical,Rhode Island,1.3,0.6,2,1,0
+Female,Cervical,South Carolina,-3,-3.7,-2.4,1,0
+Female,Cervical,South Dakota,-3.4,-3.9,-2.9,1,0
+Female,Cervical,Tennessee,-2.7,-3.5,-1.8,1,0
+Female,Cervical,Texas,0.9,0.3,1.6,1,0
+Female,Cervical,Utah,0.6,-0.1,1.2,0,0
+Female,Cervical,Virginia,1.2,0.4,1.9,1,0
+Female,Cervical,Vermont,0,-0.5,0.5,0,0
+Female,Cervical,Washington,0.1,-0.5,0.6,0,0
+Female,Cervical,Wisconsin,0.5,0.2,0.8,1,0
+Female,Cervical,West Virginia,0.6,0.2,0.9,1,0
+Female,Cervical,Wyoming,-0.2,-0.7,0.2,0,0
+Both,Other Female Genital,Alaska,-0.3,-0.8,0.2,0,0
+Both,Other Female Genital,Alabama,3.2,2,4.4,1,0
+Both,Other Female Genital,Arkansas,3.9,2.8,5.1,1,0
+Both,Other Female Genital,Arizona,3.1,1.8,4.4,1,0
+Both,Other Female Genital,California,-1.3,-2.1,-0.4,1,0
+Both,Other Female Genital,Colorado,-1.3,-2.4,-0.2,1,0
+Both,Other Female Genital,Connecticut,,,,,0
+Both,Other Female Genital,District of Columbia,1.9,1.4,2.5,1,0
+Both,Other Female Genital,Delaware,2.3,1.5,3,1,0
+Both,Other Female Genital,Florida,1.6,1,2.2,1,0
+Both,Other Female Genital,Georgia,0.9,0.3,1.6,1,0
+Both,Other Female Genital,Hawaii,0.4,-0.7,1.4,0,0
+Both,Other Female Genital,Idaho,1.7,0.6,2.7,1,0
+Both,Other Female Genital,Illinois,-4.7,-5.4,-4,1,0
+Both,Other Female Genital,Indiana,-5.3,-6.3,-4.3,1,0
+Both,Other Female Genital,Iowa,-3.9,-4.9,-2.9,1,1
+Both,Other Female Genital,Kansas,-1,-2.2,0.1,0,0
+Both,Other Female Genital,Kentucky,0.5,-0.7,1.7,0,0
+Both,Other Female Genital,Louisiana,0.1,-0.7,1,0,0
+Both,Other Female Genital,Massachusetts,0.2,-0.6,1,0,0
+Both,Other Female Genital,Maryland,1,0.4,1.7,1,0
+Both,Other Female Genital,Maine,1.1,0.5,1.8,1,0
+Both,Other Female Genital,Michigan,-0.2,-1.1,0.6,0,0
+Both,Other Female Genital,Minnesota,-0.3,-1.2,0.6,0,0
+Both,Other Female Genital,Missouri,4.2,3.2,5.2,1,0
+Both,Other Female Genital,Montana,3.9,2.9,5,1,0
+Both,Other Female Genital,North Carolina,-0.6,-1.5,0.4,0,0
+Both,Other Female Genital,North Dakota,-0.9,-1.9,0.1,0,0
+Both,Other Female Genital,Nebraska,,,,,0
+Both,Other Female Genital,New Hampshire,2.1,1.6,2.6,1,0
+Both,Other Female Genital,New Jersey,2.5,1.7,3.4,1,0
+Both,Other Female Genital,New Mexico,1.6,0.8,2.3,1,0
+Both,Other Female Genital,Nevada,0.8,0.2,1.5,1,0
+Both,Other Female Genital,New York,-0.1,-0.8,0.6,0,0
+Both,Other Female Genital,Ohio,2,1.1,3.1,1,0
+Both,Other Female Genital,Oklahoma,-4.3,-5,-3.6,1,0
+Both,Other Female Genital,Oregon,-4.5,-5.4,-3.5,1,0
+Both,Other Female Genital,Pennsylvania,-4.1,-5.1,-3.1,1,0
+Both,Other Female Genital,Rhode Island,-2.3,-3,-1.6,1,0
+Both,Other Female Genital,South Carolina,-2.1,-2.9,-1.4,1,0
+Both,Other Female Genital,South Dakota,-2.4,-3.2,-1.6,1,0
+Both,Other Female Genital,Tennessee,-0.3,-1.3,0.6,0,0
+Both,Other Female Genital,Texas,-0.3,-1.2,0.7,0,0
+Both,Other Female Genital,Utah,0.5,-0.2,1.1,0,0
+Both,Other Female Genital,Virginia,0.6,-0.1,1.2,0,0
+Both,Other Female Genital,Vermont,-0.9,-1.4,-0.4,1,0
+Both,Other Female Genital,Washington,-1,-1.5,-0.5,1,0
+Both,Other Female Genital,Wisconsin,2,0.9,3.2,1,0
+Both,Other Female Genital,West Virginia,2.6,1.3,4,1,0
+Both,Other Female Genital,Wyoming,1.9,0.7,3.1,1,0
+Female,Other Female Genital,Alaska,-0.5,-1.1,0.1,0,0
+Female,Other Female Genital,Alabama,-0.9,-1.6,-0.1,1,0
+Female,Other Female Genital,Arkansas,0.2,-0.5,0.8,0,0
+Female,Other Female Genital,Arizona,1.7,1.4,2,1,0
+Female,Other Female Genital,California,1.5,1.1,1.9,1,0
+Female,Other Female Genital,Colorado,1.9,1.4,2.3,1,0
+Female,Other Female Genital,Connecticut,0.8,0.4,1.2,1,0
+Female,Other Female Genital,District of Columbia,-0.2,-0.8,0.4,0,0
+Female,Other Female Genital,Delaware,2.2,1.6,2.7,1,0
+Female,Other Female Genital,Florida,-3.7,-4.2,-3.2,1,0
+Female,Other Female Genital,Georgia,-4.4,-4.9,-3.8,1,0
+Female,Other Female Genital,Hawaii,-3.1,-3.8,-2.4,1,0
+Female,Other Female Genital,Idaho,-0.9,-1.7,0,0,0
+Female,Other Female Genital,Illinois,-1.5,-2.3,-0.7,1,0
+Female,Other Female Genital,Indiana,-0.4,-1.3,0.5,0,0
+Female,Other Female Genital,Iowa,-0.9,-1.4,-0.5,1,1
+Female,Other Female Genital,Kansas,-0.3,-0.6,0.1,0,0
+Female,Other Female Genital,Kentucky,-0.2,-0.5,0.2,0,0
+Female,Other Female Genital,Louisiana,-1.5,-2.2,-0.8,1,0
+Female,Other Female Genital,Massachusetts,-1.6,-2.3,-0.9,1,0
+Female,Other Female Genital,Maryland,1.1,-0.2,2.5,0,0
+Female,Other Female Genital,Maine,2.4,1,3.9,1,0
+Female,Other Female Genital,Michigan,0.9,-0.4,2.3,0,0
+Female,Other Female Genital,Minnesota,,,,,0
+Female,Other Female Genital,Missouri,,,,,0
+Female,Other Female Genital,Montana,0.5,-0.4,1.4,0,0
+Female,Other Female Genital,North Carolina,-0.1,-1,0.7,0,0
+Female,Other Female Genital,North Dakota,,,,,0
+Female,Other Female Genital,Nebraska,1,-0.1,2.2,0,0
+Female,Other Female Genital,New Hampshire,,,,,0
+Female,Other Female Genital,New Jersey,,,,,0
+Female,Other Female Genital,New Mexico,,,,,0
+Female,Other Female Genital,Nevada,,,,,0
+Female,Other Female Genital,New York,,,,,0
+Female,Other Female Genital,Ohio,-3.2,-4.2,-2.2,1,0
+Female,Other Female Genital,Oklahoma,,,,,0
+Female,Other Female Genital,Oregon,,,,,0
+Female,Other Female Genital,Pennsylvania,,,,,0
+Female,Other Female Genital,Rhode Island,,,,,0
+Female,Other Female Genital,South Carolina,-1.6,-2.7,-0.5,1,0
+Female,Other Female Genital,South Dakota,-1.5,-2.5,-0.4,1,0
+Female,Other Female Genital,Tennessee,-1.8,-3.3,-0.2,1,0
+Female,Other Female Genital,Texas,-1.9,-3.5,-0.3,1,0
+Female,Other Female Genital,Utah,0.7,-1.1,2.5,0,0
+Female,Other Female Genital,Virginia,,,,,0
+Female,Other Female Genital,Vermont,0.8,-1.1,2.8,0,0
+Female,Other Female Genital,Washington,-1.9,-2.5,-1.2,1,0
+Female,Other Female Genital,Wisconsin,-2.6,-3.3,-1.8,1,0
+Female,Other Female Genital,West Virginia,-0.2,-1.6,1.2,0,0
+Female,Other Female Genital,Wyoming,0.7,0.1,1.3,1,0
+Both,Male Genital,Alaska,1.1,0.5,1.7,1,0
+Both,Male Genital,Alabama,0.3,-0.5,1.1,0,0
+Both,Male Genital,Arkansas,-0.1,-0.7,0.6,0,0
+Both,Male Genital,Arizona,-1,-1.7,-0.4,1,0
+Both,Male Genital,California,1.3,0.4,2.2,1,0
+Both,Male Genital,Colorado,-4.3,-4.9,-3.7,1,0
+Both,Male Genital,Connecticut,-5.2,-5.9,-4.5,1,0
+Both,Male Genital,District of Columbia,-3.3,-4.2,-2.5,1,0
+Both,Male Genital,Delaware,-1.5,-2.2,-0.9,1,0
+Both,Male Genital,Florida,-2,-2.7,-1.3,1,0
+Both,Male Genital,Georgia,-1.2,-2,-0.4,1,0
+Both,Male Genital,Hawaii,-0.6,-1.3,0,0,0
+Both,Male Genital,Idaho,-0.6,-1.3,0,0,0
+Both,Male Genital,Illinois,0.6,-0.1,1.3,0,0
+Both,Male Genital,Indiana,0.6,-0.1,1.3,0,0
+Both,Male Genital,Iowa,-0.9,-1.6,-0.3,1,1
+Both,Male Genital,Kansas,2,0.8,3.2,1,0
+Both,Male Genital,Kentucky,,,,,0
+Both,Male Genital,Louisiana,1.8,0.5,3.2,1,0
+Both,Male Genital,Massachusetts,,,,,0
+Both,Male Genital,Maryland,,,,,0
+Both,Male Genital,Maine,,,,,0
+Both,Male Genital,Michigan,2.2,0.9,3.4,1,0
+Both,Male Genital,Minnesota,,,,,0
+Both,Male Genital,Missouri,,,,,0
+Both,Male Genital,Montana,,,,,0
+Both,Male Genital,North Carolina,,,,,0
+Both,Male Genital,North Dakota,,,,,0
+Both,Male Genital,Nebraska,,,,,0
+Both,Male Genital,New Hampshire,,,,,0
+Both,Male Genital,New Jersey,3.2,1.7,4.7,1,0
+Both,Male Genital,New Mexico,,,,,0
+Both,Male Genital,Nevada,,,,,0
+Both,Male Genital,New York,,,,,0
+Both,Male Genital,Ohio,,,,,0
+Both,Male Genital,Oklahoma,1,-0.4,2.3,0,0
+Both,Male Genital,Oregon,1.2,-0.2,2.5,0,0
+Both,Male Genital,Pennsylvania,0.3,-0.9,1.5,0,0
+Both,Male Genital,Rhode Island,0.2,-1,1.4,0,0
+Both,Male Genital,South Carolina,2.6,1.2,4,1,0
+Both,Male Genital,South Dakota,,,,,0
+Both,Male Genital,Tennessee,2,0.5,3.6,1,0
+Both,Male Genital,Texas,-1.5,-2.2,-0.8,1,0
+Both,Male Genital,Utah,-1.6,-2.5,-0.8,1,0
+Both,Male Genital,Virginia,-1.3,-2.3,-0.3,1,0
+Both,Male Genital,Vermont,1.5,1.2,1.8,1,0
+Both,Male Genital,Washington,1.6,1.2,2,1,0
+Both,Male Genital,Wisconsin,1.4,0.9,1.9,1,0
+Both,Male Genital,West Virginia,1.2,0.5,1.9,1,0
+Both,Male Genital,Wyoming,0.5,-0.2,1.3,0,0
+Male,Male Genital,Alaska,2.1,1.4,2.8,1,0
+Male,Male Genital,Alabama,-3.8,-4.6,-2.9,1,0
+Male,Male Genital,Arkansas,-4.5,-5.4,-3.7,1,0
+Male,Male Genital,Arizona,-3,-4.1,-1.9,1,0
+Male,Male Genital,California,-0.7,-2,0.7,0,0
+Male,Male Genital,Colorado,-0.7,-2,0.7,0,0
+Male,Male Genital,Connecticut,-0.7,-2.2,0.8,0,0
+Male,Male Genital,District of Columbia,-0.6,-1.4,0.1,0,0
+Male,Male Genital,Delaware,-0.6,-1.3,0.2,0,0
+Male,Male Genital,Florida,1.4,0.9,2,1,0
+Male,Male Genital,Georgia,1.5,0.9,2,1,0
+Male,Male Genital,Hawaii,0.6,-0.2,1.4,0,0
+Male,Male Genital,Idaho,0.5,-0.3,1.3,0,0
+Male,Male Genital,Illinois,1,-0.3,2.3,0,0
+Male,Male Genital,Indiana,1.5,-0.2,3.3,0,0
+Male,Male Genital,Iowa,0.9,-0.3,2.1,0,1
+Male,Male Genital,Kansas,-1.8,-2.2,-1.4,1,0
+Male,Male Genital,Kentucky,-0.7,-1.2,-0.2,1,0
+Male,Male Genital,Louisiana,1.7,1.4,2,1,0
+Male,Male Genital,Massachusetts,1.7,1.3,2.1,1,0
+Male,Male Genital,Maryland,1.6,1.2,2,1,0
+Male,Male Genital,Maine,0.4,0.2,0.7,1,0
+Male,Male Genital,Michigan,-0.5,-0.8,-0.1,1,0
+Male,Male Genital,Minnesota,1.7,1.4,2,1,0
+Male,Male Genital,Missouri,-5.3,-5.7,-5,1,0
+Male,Male Genital,Montana,-4.4,-4.9,-3.9,1,0
+Male,Male Genital,North Carolina,-1.5,-2.2,-0.9,1,0
+Male,Male Genital,North Dakota,-2.2,-2.9,-1.5,1,0
+Male,Male Genital,Nebraska,-1,-1.7,-0.4,1,0
+Male,Male Genital,New Hampshire,-0.2,-0.6,0.2,0,0
+Male,Male Genital,New Jersey,-0.1,-0.5,0.3,0,0
+Male,Male Genital,New Mexico,1.6,1.4,1.8,1,0
+Male,Male Genital,Nevada,1.7,1.5,1.9,1,0
+Male,Male Genital,New York,-0.4,-0.8,0,0,0
+Male,Male Genital,Ohio,-0.5,-0.9,-0.1,1,0
+Male,Male Genital,Oklahoma,1.7,1,2.4,1,0
+Male,Male Genital,Oregon,2.2,1.7,2.8,1,0
+Male,Male Genital,Pennsylvania,1.6,0.8,2.3,1,0
+Male,Male Genital,Rhode Island,-0.6,-1.7,0.4,0,0
+Male,Male Genital,South Carolina,,,,,0
+Male,Male Genital,South Dakota,,,,,0
+Male,Male Genital,Tennessee,3.3,2.7,3.8,1,0
+Male,Male Genital,Texas,2.9,2.1,3.8,1,0
+Male,Male Genital,Utah,3.6,2.8,4.5,1,0
+Male,Male Genital,Virginia,1.7,0.7,2.8,1,0
+Male,Male Genital,Vermont,0.9,-0.4,2.1,0,0
+Male,Male Genital,Washington,,,,,0
+Male,Male Genital,Wisconsin,,,,,0
+Male,Male Genital,West Virginia,,,,,0
+Male,Male Genital,Wyoming,,,,,0
+Both,Thyroid,Alaska,1.6,0.9,2.3,1,0
+Both,Thyroid,Alabama,0.6,-0.2,1.5,0,0
+Both,Thyroid,Arkansas,2.4,1.6,3.2,1,0
+Both,Thyroid,Arizona,-0.4,-1.3,0.4,0,0
+Both,Thyroid,California,-0.4,-1.2,0.5,0,0
+Both,Thyroid,Colorado,0.8,0,1.6,0,0
+Both,Thyroid,Connecticut,0.9,0.1,1.7,1,0
+Both,Thyroid,District of Columbia,-1.1,-1.8,-0.3,1,0
+Both,Thyroid,Delaware,-1.1,-1.9,-0.4,1,0
+Both,Thyroid,Florida,1.9,0.9,3,1,0
+Both,Thyroid,Georgia,2.6,1,4.2,1,0
+Both,Thyroid,Hawaii,1.8,0.7,2.9,1,0
+Both,Thyroid,Idaho,-0.6,-1.3,0.1,0,0
+Both,Thyroid,Illinois,-1,-1.7,-0.4,1,0
+Both,Thyroid,Indiana,0.4,-0.8,1.6,0,0
+Both,Thyroid,Iowa,1.4,1,1.9,1,1
+Both,Thyroid,Kansas,1.6,1,2.3,1,0
+Both,Thyroid,Kentucky,0.7,0.1,1.4,1,0
+Both,Thyroid,Louisiana,-0.2,-0.9,0.5,0,0
+Both,Thyroid,Massachusetts,1.9,0.9,2.8,1,0
+Both,Thyroid,Maryland,-4.2,-5,-3.3,1,0
+Both,Thyroid,Maine,-5.3,-6.3,-4.3,1,0
+Both,Thyroid,Michigan,-3,-3.9,-2.1,1,0
+Both,Thyroid,Minnesota,-1.6,-2.5,-0.7,1,0
+Both,Thyroid,Missouri,-2.5,-3.6,-1.4,1,0
+Both,Thyroid,Montana,-0.6,-1.1,0,0,0
+Both,Thyroid,North Carolina,-0.5,-1,0.1,0,0
+Both,Thyroid,North Dakota,0.3,-0.3,0.8,0,0
+Both,Thyroid,Nebraska,0.4,-0.2,0.9,0,0
+Both,Thyroid,New Hampshire,-1.6,-2.5,-0.8,1,0
+Both,Thyroid,New Jersey,-1.7,-2.6,-0.8,1,0
+Both,Thyroid,New Mexico,2.4,1,3.8,1,0
+Both,Thyroid,Nevada,3,1.7,4.3,1,0
+Both,Thyroid,New York,2.3,0.8,3.9,1,0
+Both,Thyroid,Ohio,,,,,0
+Both,Thyroid,Oklahoma,,,,,0
+Both,Thyroid,Oregon,,,,,0
+Both,Thyroid,Pennsylvania,2.2,0.7,3.8,1,0
+Both,Thyroid,Rhode Island,,,,,0
+Both,Thyroid,South Carolina,,,,,0
+Both,Thyroid,South Dakota,,,,,0
+Both,Thyroid,Tennessee,,,,,0
+Both,Thyroid,Texas,,,,,0
+Both,Thyroid,Utah,,,,,0
+Both,Thyroid,Virginia,,,,,0
+Both,Thyroid,Vermont,,,,,0
+Both,Thyroid,Washington,-0.8,-2,0.4,0,0
+Both,Thyroid,Wisconsin,,,,,0
+Both,Thyroid,West Virginia,-1.3,-2.8,0.2,0,0
+Both,Thyroid,Wyoming,,,,,0
+Male,Thyroid,Alaska,,,,,0
+Male,Thyroid,Alabama,,,,,0
+Male,Thyroid,Arkansas,,,,,0
+Male,Thyroid,Arizona,,,,,0
+Male,Thyroid,California,,,,,0
+Male,Thyroid,Colorado,1.2,-0.5,2.8,0,0
+Male,Thyroid,Connecticut,,,,,0
+Male,Thyroid,District of Columbia,1.2,-0.7,3.2,0,0
+Male,Thyroid,Delaware,-0.5,-1.1,0.1,0,0
+Male,Thyroid,Florida,-1,-1.7,-0.3,1,0
+Male,Thyroid,Georgia,0.3,-0.8,1.3,0,0
+Male,Thyroid,Hawaii,2.9,2.5,3.4,1,0
+Male,Thyroid,Idaho,2.8,2.2,3.3,1,0
+Male,Thyroid,Illinois,3.1,2.5,3.7,1,0
+Male,Thyroid,Indiana,0.3,-0.4,0.9,0,0
+Male,Thyroid,Iowa,-0.7,-1.3,-0.1,1,1
+Male,Thyroid,Kansas,-4.5,-5.2,-3.8,1,0
+Male,Thyroid,Kentucky,-5.1,-6.2,-4,1,0
+Male,Thyroid,Louisiana,-3.9,-4.7,-3.2,1,0
+Male,Thyroid,Massachusetts,-2.1,-2.6,-1.5,1,0
+Male,Thyroid,Maryland,-2.2,-2.8,-1.5,1,0
+Male,Thyroid,Maine,-1.9,-2.6,-1.3,1,0
+Male,Thyroid,Michigan,-0.6,-1.3,0.1,0,0
+Male,Thyroid,Minnesota,-0.5,-1.2,0.2,0,0
+Male,Thyroid,Missouri,0.3,-0.1,0.8,0,0
+Male,Thyroid,Montana,-1.7,-2.4,-1,1,0
+Male,Thyroid,North Carolina,-1.8,-2.5,-1.1,1,0
+Male,Thyroid,North Dakota,1.1,0.3,1.8,1,0
+Male,Thyroid,Nebraska,1.5,0.4,2.7,1,0
+Male,Thyroid,New Hampshire,1,0.3,1.8,1,0
+Male,Thyroid,New Jersey,-1.1,-1.7,-0.4,1,0
+Male,Thyroid,New Mexico,-1.1,-1.9,-0.4,1,0
+Male,Thyroid,Nevada,-1,-2,0.1,0,0
+Male,Thyroid,New York,2.7,2.2,3.3,1,0
+Male,Thyroid,Ohio,2.8,2.1,3.5,1,0
+Male,Thyroid,Oklahoma,2.7,2.1,3.2,1,0
+Male,Thyroid,Oregon,1.5,1.1,2,1,0
+Male,Thyroid,Pennsylvania,1.1,0.4,1.8,1,0
+Male,Thyroid,Rhode Island,2,1.5,2.6,1,0
+Male,Thyroid,South Carolina,-3.8,-4.4,-3.2,1,0
+Male,Thyroid,South Dakota,-3.9,-4.6,-3.2,1,0
+Male,Thyroid,Tennessee,-3.6,-4.7,-2.6,1,0
+Male,Thyroid,Texas,1.3,0.5,2.1,1,0
+Male,Thyroid,Utah,0.2,-0.5,0.9,0,0
+Male,Thyroid,Virginia,2,1,2.9,1,0
+Male,Thyroid,Vermont,-0.1,-0.9,0.7,0,0
+Male,Thyroid,Washington,0,-0.9,0.8,0,0
+Male,Thyroid,Wisconsin,-0.5,-1.1,0.2,0,0
+Male,Thyroid,West Virginia,-0.4,-1,0.2,0,0
+Male,Thyroid,Wyoming,-1,-1.6,-0.3,1,0
+Female,Thyroid,Alaska,-1,-1.7,-0.4,1,0
+Female,Thyroid,Alabama,2.2,1.2,3.3,1,0
+Female,Thyroid,Arkansas,2.9,1.4,4.4,1,0
+Female,Thyroid,Arizona,2.1,1,3.2,1,0
+Female,Thyroid,California,-0.5,-1.5,0.6,0,0
+Female,Thyroid,Colorado,-0.7,-2,0.6,0,0
+Female,Thyroid,Connecticut,,,,,0
+Female,Thyroid,District of Columbia,1.6,0.8,2.4,1,0
+Female,Thyroid,Delaware,2,1.1,3,1,0
+Female,Thyroid,Florida,1,-0.1,2.1,0,0
+Female,Thyroid,Georgia,2.1,1.5,2.7,1,0
+Female,Thyroid,Hawaii,1.4,0.5,2.4,1,0
+Female,Thyroid,Idaho,3,1.9,4,1,0
+Female,Thyroid,Illinois,-2.8,-3.9,-1.8,1,0
+Female,Thyroid,Indiana,-3.9,-5.1,-2.7,1,0
+Female,Thyroid,Iowa,-1.9,-3.3,-0.5,1,1
+Female,Thyroid,Kansas,-0.4,-1.5,0.7,0,0
+Female,Thyroid,Kentucky,1.2,0.1,2.3,1,0
+Female,Thyroid,Louisiana,-0.5,-1.3,0.4,0,0
+Female,Thyroid,Massachusetts,-0.3,-1.2,0.6,0,0
+Female,Thyroid,Maryland,1.5,0.6,2.4,1,0
+Female,Thyroid,Maine,1.7,0.8,2.6,1,0
+Female,Thyroid,Michigan,-0.3,-1.1,0.6,0,0
+Female,Thyroid,Minnesota,-0.4,-1.3,0.4,0,0
+Female,Thyroid,Missouri,4,2.7,5.3,1,0
+Female,Thyroid,Montana,4.1,2.7,5.5,1,0
+Female,Thyroid,North Carolina,,,,,0
+Female,Thyroid,North Dakota,,,,,0
+Female,Thyroid,Nebraska,,,,,0
+Female,Thyroid,New Hampshire,,,,,0
+Female,Thyroid,New Jersey,,,,,0
+Female,Thyroid,New Mexico,,,,,0
+Female,Thyroid,Nevada,,,,,0
+Female,Thyroid,New York,,,,,0
+Female,Thyroid,Ohio,,,,,0
+Female,Thyroid,Oklahoma,,,,,0
+Female,Thyroid,Oregon,,,,,0
+Female,Thyroid,Pennsylvania,,,,,0
+Female,Thyroid,Rhode Island,-0.4,-1.9,1.2,0,0
+Female,Thyroid,South Carolina,,,,,0
+Female,Thyroid,South Dakota,,,,,0
+Female,Thyroid,Tennessee,,,,,0
+Female,Thyroid,Texas,,,,,0
+Female,Thyroid,Utah,,,,,0
+Female,Thyroid,Virginia,,,,,0
+Female,Thyroid,Vermont,,,,,0
+Female,Thyroid,Washington,,,,,0
+Female,Thyroid,Wisconsin,2.4,1.2,3.7,1,0
+Female,Thyroid,West Virginia,,,,,0
+Female,Thyroid,Wyoming,2.4,0.9,3.9,1,0
+Both,Tobacco,Alaska,0,-0.6,0.7,0,0
+Both,Tobacco,Alabama,-0.1,-0.8,0.7,0,0
+Both,Tobacco,Arkansas,0.1,-0.9,1.2,0,0
+Both,Tobacco,Arizona,0.1,-0.3,0.4,0,0
+Both,Tobacco,California,-0.4,-0.9,0.1,0,0
+Both,Tobacco,Colorado,0.6,0.1,1,1,0
+Both,Tobacco,Connecticut,0.4,0,0.8,0,0
+Both,Tobacco,District of Columbia,0,-0.6,0.5,0,0
+Both,Tobacco,Delaware,0.8,0.4,1.2,1,0
+Both,Tobacco,Florida,0.2,-0.1,0.5,0,0
+Both,Tobacco,Georgia,0,-0.3,0.4,0,0
+Both,Tobacco,Hawaii,0.3,0,0.7,0,0
+Both,Tobacco,Idaho,0.4,0.2,0.6,1,0
+Both,Tobacco,Illinois,0.1,0,0.3,0,0
+Both,Tobacco,Indiana,0.7,0.4,0.9,1,0
+Both,Tobacco,Iowa,0.7,0.4,1,1,1
+Both,Tobacco,Kansas,0.8,0.3,1.2,1,0
+Both,Tobacco,Kentucky,0.3,0,0.6,0,0
+Both,Tobacco,Louisiana,0,-0.3,0.3,0,0
+Both,Tobacco,Massachusetts,0.6,0.1,1.2,1,0
+Both,Tobacco,Maryland,-1.9,-2.7,-1.1,1,0
+Both,Tobacco,Maine,-2.2,-3,-1.3,1,0
+Both,Tobacco,Michigan,-1.7,-2.9,-0.5,1,0
+Both,Tobacco,Minnesota,-0.5,-1.1,0.1,0,0
+Both,Tobacco,Missouri,-0.9,-2,0.1,0,0
+Both,Tobacco,Mississippi,0,-0.8,0.8,0,0
+Both,Tobacco,Montana,-0.7,-0.9,-0.4,1,0
+Both,Tobacco,North Carolina,-1.1,-1.3,-0.8,1,0
+Both,Tobacco,North Dakota,-0.3,-0.5,0,0,0
+Both,Tobacco,Nebraska,-0.2,-0.4,0.1,0,0
+Both,Tobacco,New Hampshire,-0.5,-0.9,-0.2,1,0
+Both,Tobacco,New Jersey,0.2,-0.2,0.5,0,0
+Both,Tobacco,New Mexico,-0.1,-0.5,0.3,0,0
+Both,Tobacco,Nevada,-0.2,-0.9,0.5,0,0
+Both,Tobacco,New York,0.1,-0.6,0.7,0,0
+Both,Tobacco,Ohio,0.2,-0.4,0.8,0,0
+Both,Tobacco,Oklahoma,-0.5,-1.1,0.2,0,0
+Both,Tobacco,Oregon,0.8,0.1,1.6,1,0
+Both,Tobacco,Pennsylvania,-0.2,-0.5,0,0,0
+Both,Tobacco,Rhode Island,-0.2,-0.5,0,0,0
+Both,Tobacco,South Carolina,-0.2,-0.6,0.2,0,0
+Both,Tobacco,South Dakota,0.3,0.1,0.6,1,0
+Both,Tobacco,Tennessee,0.2,-0.1,0.4,0,0
+Both,Tobacco,Texas,0.5,0.2,0.8,1,0
+Both,Tobacco,Utah,0.8,0.4,1.2,1,0
+Both,Tobacco,Virginia,0.8,0.3,1.2,1,0
+Both,Tobacco,Vermont,0.9,0.3,1.4,1,0
+Both,Tobacco,Washington,,,,0,0
+Both,Tobacco,Wisconsin,,,,0,0
+Both,Tobacco,West Virginia,,,,0,0
+Both,Tobacco,Wyoming,0.5,0.2,0.7,1,0
+Male,Tobacco,Alaska,0.3,-0.2,0.7,0,0
+Male,Tobacco,Alabama,0.7,0.2,1.2,1,0
+Male,Tobacco,Arkansas,0.5,0.2,0.8,1,0
+Male,Tobacco,Arizona,0.1,-0.4,0.5,0,0
+Male,Tobacco,California,0.9,0.4,1.4,1,0
+Male,Tobacco,Colorado,0,-0.3,0.3,0,0
+Male,Tobacco,Connecticut,-0.4,-0.7,0,0,0
+Male,Tobacco,District of Columbia,0.4,0,0.8,0,0
+Male,Tobacco,Delaware,-0.7,-1,-0.3,1,0
+Male,Tobacco,Florida,-0.9,-1.3,-0.4,1,0
+Male,Tobacco,Georgia,-0.4,-0.8,0,0,0
+Male,Tobacco,Hawaii,-0.3,-0.5,0,0,0
+Male,Tobacco,Idaho,-0.4,-0.7,-0.1,1,0
+Male,Tobacco,Illinois,-0.1,-0.5,0.2,0,0
+Male,Tobacco,Indiana,0.5,0.1,0.8,1,0
+Male,Tobacco,Iowa,0.4,-0.2,1,0,1
+Male,Tobacco,Kansas,-0.1,-0.3,0.1,0,0
+Male,Tobacco,Kentucky,-0.2,-0.4,0.1,0,0
+Male,Tobacco,Louisiana,-0.1,-0.5,0.3,0,0
+Male,Tobacco,Massachusetts,0.8,0.4,1.1,1,0
+Male,Tobacco,Maryland,0.8,0.5,1.2,1,0
+Male,Tobacco,Maine,0.6,0.3,1,1,0
+Male,Tobacco,Michigan,0.1,-0.1,0.4,0,0
+Male,Tobacco,Minnesota,0,-0.3,0.3,0,0
+Male,Tobacco,Missouri,0.3,0,0.6,0,0
+Male,Tobacco,Mississippi,,,,0,0
+Male,Tobacco,Montana,,,,0,0
+Male,Tobacco,North Carolina,,,,0,0
+Male,Tobacco,North Dakota,0.8,0.2,1.4,1,0
+Male,Tobacco,Nebraska,0.6,-0.2,1.4,0,0
+Male,Tobacco,New Hampshire,1,0.2,1.7,1,0
+Male,Tobacco,New Jersey,-0.2,-0.5,0,0,0
+Male,Tobacco,New Mexico,-0.5,-0.8,-0.1,1,0
+Male,Tobacco,Nevada,0,-0.3,0.4,0,0
+Male,Tobacco,New York,1,0.3,1.6,1,0
+Male,Tobacco,Ohio,1,0,1.9,0,0
+Male,Tobacco,Oklahoma,0.9,0.1,1.8,1,0
+Male,Tobacco,Oregon,0.6,0.2,1,1,0
+Male,Tobacco,Pennsylvania,0.5,0,0.9,0,0
+Male,Tobacco,Rhode Island,0.7,0,1.5,0,0
+Male,Tobacco,South Carolina,-0.1,-0.5,0.4,0,0
+Male,Tobacco,South Dakota,0.1,-0.5,0.7,0,0
+Male,Tobacco,Tennessee,-0.2,-0.9,0.5,0,0
+Male,Tobacco,Texas,-0.5,-0.7,-0.2,1,0
+Male,Tobacco,Utah,-0.6,-0.9,-0.3,1,0
+Male,Tobacco,Virginia,-0.3,-0.6,0,0,0
+Male,Tobacco,Vermont,1.2,0.6,1.7,1,0
+Male,Tobacco,Washington,0.9,0.2,1.6,1,0
+Male,Tobacco,Wisconsin,1.4,0.8,2.1,1,0
+Male,Tobacco,West Virginia,-0.1,-0.6,0.4,0,0
+Male,Tobacco,Wyoming,-0.6,-1.2,0.1,0,0
+Female,Tobacco,Alaska,0.3,-0.4,1,0,0
+Female,Tobacco,Alabama,-0.1,-0.3,0.1,0,0
+Female,Tobacco,Arkansas,-0.1,-0.3,0,0,0
+Female,Tobacco,Arizona,0,-0.3,0.3,0,0
+Female,Tobacco,California,0.4,0.1,0.6,1,0
+Female,Tobacco,Colorado,0.4,0.1,0.6,1,0
+Female,Tobacco,Connecticut,0.4,0.1,0.7,1,0
+Female,Tobacco,District of Columbia,0.2,-0.1,0.6,0,0
+Female,Tobacco,Delaware,0,-0.5,0.5,0,0
+Female,Tobacco,Florida,0.5,0.2,0.8,1,0
+Female,Tobacco,Georgia,0,-0.3,0.3,0,0
+Female,Tobacco,Hawaii,0,-0.4,0.4,0,0
+Female,Tobacco,Idaho,0,-0.4,0.5,0,0
+Female,Tobacco,Illinois,-0.1,-0.4,0.1,0,0
+Female,Tobacco,Indiana,-0.4,-0.7,-0.1,1,0
+Female,Tobacco,Iowa,0.1,-0.2,0.5,0,1
+Female,Tobacco,Kansas,-1.5,-2.1,-0.9,1,0
+Female,Tobacco,Kentucky,-0.6,-1,-0.1,1,0
+Female,Tobacco,Louisiana,-0.6,-0.8,-0.4,1,0
+Female,Tobacco,Massachusetts,-0.9,-1.2,-0.6,1,0
+Female,Tobacco,Maryland,-0.3,-0.6,0,0,0
+Female,Tobacco,Maine,0.6,-0.1,1.3,0,0
+Female,Tobacco,Michigan,0.7,-0.2,1.7,0,0
+Female,Tobacco,Minnesota,0.5,-0.2,1.3,0,0
+Female,Tobacco,Missouri,-0.1,-0.5,0.3,0,0
+Female,Tobacco,Mississippi,-0.2,-0.7,0.2,0,0
+Female,Tobacco,Montana,0,-0.4,0.5,0,0
+Female,Tobacco,North Carolina,0,-0.2,0.2,0,0
+Female,Tobacco,North Dakota,-0.3,-0.6,0,0,0
+Female,Tobacco,Nebraska,0.3,0.1,0.5,1,0
+Female,Tobacco,New Hampshire,1.3,0.9,1.7,1,0
+Female,Tobacco,New Jersey,0.8,0.3,1.4,1,0
+Female,Tobacco,New Mexico,1.8,1.2,2.3,1,0
+Female,Tobacco,Nevada,-0.1,-0.4,0.1,0,0
+Female,Tobacco,New York,-0.6,-1.1,-0.1,1,0
+Female,Tobacco,Ohio,0.4,0,0.7,0,0
+Female,Tobacco,Oklahoma,0.5,-0.1,1.1,0,0
+Female,Tobacco,Oregon,0.2,-0.5,1,0,0
+Female,Tobacco,Pennsylvania,0.8,-0.3,1.9,0,0
+Female,Tobacco,Rhode Island,0.2,-0.1,0.5,0,0
+Female,Tobacco,South Carolina,-0.2,-0.5,0.2,0,0
+Female,Tobacco,South Dakota,0.6,0.3,0.9,1,0
+Female,Tobacco,Tennessee,0.4,0.2,0.7,1,0
+Female,Tobacco,Texas,0.4,0.1,0.8,1,0
+Female,Tobacco,Utah,0.5,0.1,0.8,1,0
+Female,Tobacco,Virginia,0.4,0,0.8,0,0
+Female,Tobacco,Vermont,0.2,-0.2,0.6,0,0
+Female,Tobacco,Washington,0.6,0,1.2,0,0
+Female,Tobacco,Wisconsin,0.4,-0.5,1.3,0,0
+Female,Tobacco,West Virginia,0.1,-0.9,1.1,0,0
+Female,Tobacco,Wyoming,0.8,-0.5,2,0,0
+Both,HPV,Alaska,,,,0,0
+Both,HPV,Alabama,-0.4,-1,0.2,0,0
+Both,HPV,Arkansas,-0.3,-1,0.5,0,0
+Both,HPV,Arizona,-1.2,-1.8,-0.7,1,0
+Both,HPV,California,-1.1,-1.4,-0.9,1,0
+Both,HPV,Colorado,-1.2,-1.7,-0.7,1,0
+Both,HPV,Connecticut,0,-1,0.9,0,0
+Both,HPV,District of Columbia,,,,0,0
+Both,HPV,Delaware,-0.2,-1.5,1,0,0
+Both,HPV,Florida,-1.1,-1.4,-0.8,1,0
+Both,HPV,Georgia,-0.3,-0.7,0.1,0,0
+Both,HPV,Hawaii,-1.5,-2.9,-0.1,1,0
+Both,HPV,Idaho,-0.9,-2.1,0.2,0,0
+Both,HPV,Illinois,-1.2,-1.5,-0.8,1,0
+Both,HPV,Indiana,0.5,0.1,1,1,0
+Both,HPV,Iowa,0.8,-0.1,1.6,0,1
+Both,HPV,Kansas,0.5,-0.1,1.1,0,0
+Both,HPV,Kentucky,0.9,0.5,1.4,1,0
+Both,HPV,Louisiana,-0.5,-1,0,0,0
+Both,HPV,Massachusetts,-0.9,-1.5,-0.2,1,0
+Both,HPV,Maryland,-0.8,-1.4,-0.1,1,0
+Both,HPV,Maine,-0.7,-1.7,0.2,0,0
+Both,HPV,Michigan,-0.3,-0.9,0.2,0,0
+Both,HPV,Minnesota,-0.4,-1.1,0.2,0,0
+Both,HPV,Missouri,0.1,-0.3,0.6,0,0
+Both,HPV,Mississippi,,,,0,0
+Both,HPV,Montana,0,-1.3,1.4,0,0
+Both,HPV,North Carolina,-0.7,-1.1,-0.3,1,0
+Both,HPV,North Dakota,,,,0,0
+Both,HPV,Nebraska,-0.1,-1.4,1.2,0,0
+Both,HPV,New Hampshire,-0.8,-1.8,0.3,0,0
+Both,HPV,New Jersey,-1.6,-2,-1.1,1,0
+Both,HPV,New Mexico,0.4,-0.4,1.3,0,0
+Both,HPV,Nevada,-0.2,-1,0.6,0,0
+Both,HPV,New York,-1.1,-1.5,-0.8,1,0
+Both,HPV,Ohio,0.2,-0.2,0.6,0,0
+Both,HPV,Oklahoma,-0.1,-0.8,0.5,0,0
+Both,HPV,Oregon,-0.4,-1.3,0.4,0,0
+Both,HPV,Pennsylvania,-0.5,-1,0,0,0
+Both,HPV,Rhode Island,-1.1,-1.9,-0.1,1,0
+Both,HPV,South Carolina,-0.7,-1.2,-0.3,1,0
+Both,HPV,South Dakota,,,,0,0
+Both,HPV,Tennessee,-0.7,-1.4,0.1,0,0
+Both,HPV,Texas,-0.7,-1,-0.3,1,0
+Both,HPV,Utah,-0.1,-0.9,0.6,0,0
+Both,HPV,Virginia,-0.7,-1.2,-0.2,1,0
+Both,HPV,Vermont,,,,0,0
+Both,HPV,Washington,-0.7,-1.4,-0.1,1,0
+Both,HPV,Wisconsin,-0.2,-0.8,0.3,0,0
+Both,HPV,West Virginia,0.5,-0.3,1.2,0,0
+Both,HPV,Wyoming,,,,0,0
+Male,HPV,Alaska,,,,0,0
+Male,HPV,Alabama,-0.7,-2.2,0.9,0,0
+Male,HPV,Arkansas,-0.4,-1.9,1.1,0,0
+Male,HPV,Arizona,-1.7,-2.6,-0.8,1,0
+Male,HPV,California,-1.7,-2.2,-1.2,1,0
+Male,HPV,Colorado,-1.2,-2.3,-0.2,1,0
+Male,HPV,Connecticut,,,,0,0
+Male,HPV,District of Columbia,,,,0,0
+Male,HPV,Delaware,,,,0,0
+Male,HPV,Florida,-1.6,-2.1,-1.2,1,0
+Male,HPV,Georgia,-0.6,-1.4,0.1,0,0
+Male,HPV,Hawaii,,,,0,0
+Male,HPV,Idaho,,,,0,0
+Male,HPV,Illinois,-0.8,-1.6,0,0,0
+Male,HPV,Indiana,1.1,0,2.1,0,0
+Male,HPV,Iowa,,,,0,1
+Male,HPV,Kansas,,,,0,0
+Male,HPV,Kentucky,0.9,-0.3,2.1,0,0
+Male,HPV,Louisiana,-1.7,-2.8,-0.6,1,0
+Male,HPV,Massachusetts,-1,-2.7,0.7,0,0
+Male,HPV,Maryland,-0.8,-2,0.5,0,0
+Male,HPV,Maine,,,,0,0
+Male,HPV,Michigan,0.3,-0.8,1.4,0,0
+Male,HPV,Minnesota,0.4,-1,1.9,0,0
+Male,HPV,Missouri,0.1,-0.8,1,0,0
+Male,HPV,Mississippi,,,,0,0
+Male,HPV,Montana,,,,0,0
+Male,HPV,North Carolina,-1.1,-1.9,-0.2,1,0
+Male,HPV,North Dakota,,,,0,0
+Male,HPV,Nebraska,,,,0,0
+Male,HPV,New Hampshire,,,,0,0
+Male,HPV,New Jersey,-1.5,-2.5,-0.6,1,0
+Male,HPV,New Mexico,,,,0,0
+Male,HPV,Nevada,,,,0,0
+Male,HPV,New York,-1.4,-2.2,-0.6,1,0
+Male,HPV,Ohio,0.4,-0.4,1.2,0,0
+Male,HPV,Oklahoma,-0.9,-2.3,0.6,0,0
+Male,HPV,Oregon,-0.5,-1.9,0.9,0,0
+Male,HPV,Pennsylvania,0.3,-0.6,1.2,0,0
+Male,HPV,Rhode Island,,,,0,0
+Male,HPV,South Carolina,-1.3,-2.8,0.3,0,0
+Male,HPV,South Dakota,,,,0,0
+Male,HPV,Tennessee,-0.7,-1.5,0,0,0
+Male,HPV,Texas,-1.7,-2.2,-1.1,1,0
+Male,HPV,Utah,,,,0,0
+Male,HPV,Virginia,-0.8,-1.7,0.2,0,0
+Male,HPV,Vermont,,,,0,0
+Male,HPV,Washington,-1.2,-2.4,0,0,0
+Male,HPV,Wisconsin,-0.9,-1.6,-0.2,1,0
+Male,HPV,West Virginia,,,,0,0
+Male,HPV,Wyoming,,,,0,0
+Female,HPV,Alaska,,,,0,0
+Female,HPV,Alabama,-0.4,-1.1,0.3,0,0
+Female,HPV,Arkansas,-0.2,-1,0.6,0,0
+Female,HPV,Arizona,-1.1,-1.7,-0.5,1,0
+Female,HPV,California,-1,-1.3,-0.6,1,0
+Female,HPV,Colorado,-1.1,-1.7,-0.5,1,0
+Female,HPV,Connecticut,0.2,-0.8,1.2,0,0
+Female,HPV,District of Columbia,,,,0,0
+Female,HPV,Delaware,,,,0,0
+Female,HPV,Florida,-0.8,-1.2,-0.5,1,0
+Female,HPV,Georgia,-0.3,-0.7,0.2,0,0
+Female,HPV,Hawaii,,,,0,0
+Female,HPV,Idaho,-0.3,-1.7,1.2,0,0
+Female,HPV,Illinois,-1.2,-1.7,-0.7,1,0
+Female,HPV,Indiana,0.4,-0.2,1,0,0
+Female,HPV,Iowa,0.6,-0.4,1.5,0,1
+Female,HPV,Kansas,0.7,-0.2,1.6,0,0
+Female,HPV,Kentucky,1,0.4,1.5,1,0
+Female,HPV,Louisiana,-0.1,-0.6,0.5,0,0
+Female,HPV,Massachusetts,-0.7,-1.3,-0.2,1,0
+Female,HPV,Maryland,-0.7,-1.3,0,0,0
+Female,HPV,Maine,-0.4,-1.6,0.7,0,0
+Female,HPV,Michigan,-0.5,-1,0.1,0,0
+Female,HPV,Minnesota,-0.7,-1.4,0,0,0
+Female,HPV,Missouri,0.2,-0.3,0.7,0,0
+Female,HPV,Mississippi,,,,0,0
+Female,HPV,Montana,,,,0,0
+Female,HPV,North Carolina,-0.6,-1,-0.2,1,0
+Female,HPV,North Dakota,,,,0,0
+Female,HPV,Nebraska,-0.2,-1.6,1.2,0,0
+Female,HPV,New Hampshire,-0.7,-2,0.6,0,0
+Female,HPV,New Jersey,-1.5,-2,-0.9,1,0
+Female,HPV,New Mexico,0.7,-0.4,1.8,0,0
+Female,HPV,Nevada,-0.1,-1.3,1,0,0
+Female,HPV,New York,-1,-1.3,-0.6,1,0
+Female,HPV,Ohio,0.2,-0.3,0.6,0,0
+Female,HPV,Oklahoma,0.2,-0.5,0.9,0,0
+Female,HPV,Oregon,-0.4,-1.3,0.6,0,0
+Female,HPV,Pennsylvania,-0.6,-1.1,-0.1,1,0
+Female,HPV,Rhode Island,-1.4,-2.6,-0.1,1,0
+Female,HPV,South Carolina,-0.6,-1.1,-0.1,1,0
+Female,HPV,South Dakota,,,,0,0
+Female,HPV,Tennessee,-0.6,-1.4,0.2,0,0
+Female,HPV,Texas,-0.4,-0.8,0,0,0
+Female,HPV,Utah,-0.3,-1.2,0.6,0,0
+Female,HPV,Virginia,-0.6,-1.1,-0.1,1,0
+Female,HPV,Vermont,,,,0,0
+Female,HPV,Washington,-0.5,-1.1,0.1,0,0
+Female,HPV,Wisconsin,0,-0.6,0.7,0,0
+Female,HPV,West Virginia,0.3,-0.5,1.1,0,0
+Female,HPV,Wyoming,,,,0,0
+Both,Alcohol,Alaska,0.8,0.2,1.4,1,0
+Both,Alcohol,Alabama,0.5,0.2,0.8,1,0
+Both,Alcohol,Arkansas,0.6,0.4,0.9,1,0
+Both,Alcohol,Arizona,0.6,0.3,0.9,1,0
+Both,Alcohol,California,0.7,0.5,0.8,1,0
+Both,Alcohol,Colorado,1,0.8,1.2,1,0
+Both,Alcohol,Connecticut,0.8,0.5,1.1,1,0
+Both,Alcohol,District of Columbia,-0.4,-1.4,0.6,0,0
+Both,Alcohol,Delaware,0.6,0.1,1.1,1,0
+Both,Alcohol,Florida,0.2,-0.1,0.4,0,0
+Both,Alcohol,Georgia,0.5,0.3,0.7,1,0
+Both,Alcohol,Hawaii,0.9,0.6,1.2,1,0
+Both,Alcohol,Idaho,1.2,0.7,1.8,1,0
+Both,Alcohol,Illinois,0.7,0.5,0.9,1,0
+Both,Alcohol,Indiana,0.7,0.5,0.9,1,0
+Both,Alcohol,Iowa,1.1,0.8,1.4,1,1
+Both,Alcohol,Kansas,0.6,0.4,0.9,1,0
+Both,Alcohol,Kentucky,0.7,0.4,1,1,0
+Both,Alcohol,Louisiana,0.6,0.4,0.8,1,0
+Both,Alcohol,Massachusetts,0.5,0.2,0.7,1,0
+Both,Alcohol,Maryland,0.5,0.3,0.7,1,0
+Both,Alcohol,Maine,1,0.6,1.3,1,0
+Both,Alcohol,Michigan,0.5,0.3,0.7,1,0
+Both,Alcohol,Minnesota,1.3,1.1,1.6,1,0
+Both,Alcohol,Missouri,0.8,0.5,1,1,0
+Both,Alcohol,Mississippi,,,,0,0
+Both,Alcohol,Montana,1.1,0.5,1.7,1,0
+Both,Alcohol,North Carolina,0.6,0.4,0.8,1,0
+Both,Alcohol,North Dakota,1.4,0.9,1.9,1,0
+Both,Alcohol,Nebraska,0.7,0.3,1.2,1,0
+Both,Alcohol,New Hampshire,0.8,0.4,1.1,1,0
+Both,Alcohol,New Jersey,0.5,0.2,0.7,1,0
+Both,Alcohol,New Mexico,0.2,-0.2,0.8,0,0
+Both,Alcohol,Nevada,0.6,0.2,1,1,0
+Both,Alcohol,New York,0.8,0.5,1,1,0
+Both,Alcohol,Ohio,0.9,0.7,1,1,0
+Both,Alcohol,Oklahoma,0.4,0.2,0.7,1,0
+Both,Alcohol,Oregon,0.3,0.1,0.6,1,0
+Both,Alcohol,Pennsylvania,0.6,0.4,0.8,1,0
+Both,Alcohol,Rhode Island,0.2,-0.2,0.6,0,0
+Both,Alcohol,South Carolina,0.3,0.1,0.5,1,0
+Both,Alcohol,South Dakota,1.2,0.6,1.7,1,0
+Both,Alcohol,Tennessee,0.2,-0.1,0.4,0,0
+Both,Alcohol,Texas,0.4,0.2,0.6,1,0
+Both,Alcohol,Utah,1.3,1,1.6,1,0
+Both,Alcohol,Virginia,0.4,0.1,0.7,1,0
+Both,Alcohol,Vermont,0.7,0.1,1.3,1,0
+Both,Alcohol,Washington,0.8,0.5,1,1,0
+Both,Alcohol,Wisconsin,1.2,0.9,1.4,1,0
+Both,Alcohol,West Virginia,0.6,0.2,0.9,1,0
+Both,Alcohol,Wyoming,1,0.3,1.6,1,0
+Male,Alcohol,Alaska,0.7,-0.6,2.1,0,0
+Male,Alcohol,Alabama,-0.1,-0.6,0.5,0,0
+Male,Alcohol,Arkansas,0.8,0.2,1.4,1,0
+Male,Alcohol,Arizona,0.4,-0.1,1,0,0
+Male,Alcohol,California,0.3,0.1,0.6,1,0
+Male,Alcohol,Colorado,1.2,0.8,1.6,1,0
+Male,Alcohol,Connecticut,1,0.3,1.6,1,0
+Male,Alcohol,District of Columbia,-0.9,-2,0.3,0,0
+Male,Alcohol,Delaware,-0.8,-2,0.4,0,0
+Male,Alcohol,Florida,-0.6,-1,-0.2,1,0
+Male,Alcohol,Georgia,0,-0.3,0.4,0,0
+Male,Alcohol,Hawaii,-0.2,-1,0.6,0,0
+Male,Alcohol,Idaho,0.1,-0.7,0.9,0,0
+Male,Alcohol,Illinois,0.4,0,0.9,0,0
+Male,Alcohol,Indiana,0.8,0.4,1.1,1,0
+Male,Alcohol,Iowa,1.5,1,2,1,1
+Male,Alcohol,Kansas,0.9,0.2,1.6,1,0
+Male,Alcohol,Kentucky,0.6,0.1,1.1,1,0
+Male,Alcohol,Louisiana,-0.1,-0.5,0.4,0,0
+Male,Alcohol,Massachusetts,-0.2,-0.6,0.3,0,0
+Male,Alcohol,Maryland,0.5,-0.1,1,0,0
+Male,Alcohol,Maine,1.1,0.2,1.9,1,0
+Male,Alcohol,Michigan,0.4,0.1,0.7,1,0
+Male,Alcohol,Minnesota,1.6,0.9,2.3,1,0
+Male,Alcohol,Missouri,0.5,0,0.9,0,0
+Male,Alcohol,Mississippi,,,,0,0
+Male,Alcohol,Montana,0.6,-0.8,2,0,0
+Male,Alcohol,North Carolina,0,-0.5,0.4,0,0
+Male,Alcohol,North Dakota,2.2,1.2,3.2,1,0
+Male,Alcohol,Nebraska,1.4,0.6,2.2,1,0
+Male,Alcohol,New Hampshire,0.7,-0.1,1.5,0,0
+Male,Alcohol,New Jersey,-0.1,-0.5,0.3,0,0
+Male,Alcohol,New Mexico,0.8,0,1.6,0,0
+Male,Alcohol,Nevada,0.2,-0.6,0.9,0,0
+Male,Alcohol,New York,0.3,0,0.5,0,0
+Male,Alcohol,Ohio,1,0.7,1.3,1,0
+Male,Alcohol,Oklahoma,0.8,0.3,1.3,1,0
+Male,Alcohol,Oregon,0.8,0.2,1.4,1,0
+Male,Alcohol,Pennsylvania,0.2,-0.1,0.5,0,0
+Male,Alcohol,Rhode Island,-1,-1.7,-0.3,1,0
+Male,Alcohol,South Carolina,-0.7,-1.1,-0.2,1,0
+Male,Alcohol,South Dakota,1.7,0.5,2.9,1,0
+Male,Alcohol,Tennessee,0.1,-0.2,0.5,0,0
+Male,Alcohol,Texas,0,-0.3,0.3,0,0
+Male,Alcohol,Utah,1.4,0.8,2.1,1,0
+Male,Alcohol,Virginia,-0.1,-0.7,0.5,0,0
+Male,Alcohol,Vermont,0.7,-0.5,1.9,0,0
+Male,Alcohol,Washington,0.9,0.4,1.4,1,0
+Male,Alcohol,Wisconsin,1,0.4,1.5,1,0
+Male,Alcohol,West Virginia,0.6,-0.1,1.3,0,0
+Male,Alcohol,Wyoming,,,,0,0
+Female,Alcohol,Alaska,0.9,0.4,1.5,1,0
+Female,Alcohol,Alabama,0.6,0.3,0.9,1,0
+Female,Alcohol,Arkansas,0.6,0.3,1,1,0
+Female,Alcohol,Arizona,0.7,0.4,1,1,0
+Female,Alcohol,California,0.8,0.6,1,1,0
+Female,Alcohol,Colorado,1.1,0.8,1.4,1,0
+Female,Alcohol,Connecticut,0.8,0.5,1.2,1,0
+Female,Alcohol,District of Columbia,-0.3,-1.4,0.8,0,0
+Female,Alcohol,Delaware,1,0.4,1.6,1,0
+Female,Alcohol,Florida,0.4,0.1,0.7,1,0
+Female,Alcohol,Georgia,0.5,0.4,0.7,1,0
+Female,Alcohol,Hawaii,1.3,0.8,1.7,1,0
+Female,Alcohol,Idaho,1.6,1,2.2,1,0
+Female,Alcohol,Illinois,0.8,0.6,1,1,0
+Female,Alcohol,Indiana,0.7,0.5,1,1,0
+Female,Alcohol,Iowa,1.1,0.7,1.4,1,1
+Female,Alcohol,Kansas,0.7,0.3,1,1,0
+Female,Alcohol,Kentucky,0.8,0.5,1.1,1,0
+Female,Alcohol,Louisiana,0.9,0.6,1.1,1,0
+Female,Alcohol,Massachusetts,0.6,0.4,0.9,1,0
+Female,Alcohol,Maryland,0.6,0.3,0.9,1,0
+Female,Alcohol,Maine,1,0.6,1.4,1,0
+Female,Alcohol,Michigan,0.6,0.4,0.8,1,0
+Female,Alcohol,Minnesota,1.3,1.1,1.5,1,0
+Female,Alcohol,Missouri,0.9,0.6,1.2,1,0
+Female,Alcohol,Mississippi,,,,0,0
+Female,Alcohol,Montana,1.4,0.8,2.1,1,0
+Female,Alcohol,North Carolina,0.8,0.6,1,1,0
+Female,Alcohol,North Dakota,1.4,0.9,2,1,0
+Female,Alcohol,Nebraska,0.6,0.2,1.1,1,0
+Female,Alcohol,New Hampshire,0.9,0.4,1.3,1,0
+Female,Alcohol,New Jersey,0.7,0.4,0.9,1,0
+Female,Alcohol,New Mexico,0.2,-0.3,0.7,0,0
+Female,Alcohol,Nevada,0.7,0.2,1.1,1,0
+Female,Alcohol,New York,1,0.7,1.2,1,0
+Female,Alcohol,Ohio,0.9,0.7,1.1,1,0
+Female,Alcohol,Oklahoma,0.4,0.1,0.6,1,0
+Female,Alcohol,Oregon,0.3,0,0.6,0,0
+Female,Alcohol,Pennsylvania,0.7,0.5,1,1,0
+Female,Alcohol,Rhode Island,0.6,0.1,1,1,0
+Female,Alcohol,South Carolina,0.6,0.4,0.8,1,0
+Female,Alcohol,South Dakota,1.2,0.6,1.7,1,0
+Female,Alcohol,Tennessee,0.2,-0.1,0.5,0,0
+Female,Alcohol,Texas,0.5,0.3,0.8,1,0
+Female,Alcohol,Utah,1.4,1,1.8,1,0
+Female,Alcohol,Virginia,0.6,0.3,0.9,1,0
+Female,Alcohol,Vermont,0.8,0.2,1.5,1,0
+Female,Alcohol,Washington,0.8,0.6,1.1,1,0
+Female,Alcohol,Wisconsin,1.3,1.1,1.5,1,0
+Female,Alcohol,West Virginia,0.6,0.3,1,1,0
+Female,Alcohol,Wyoming,1.3,0.4,2.2,1,0
+Both,Phys-Ob,Alaska,1.5,0.8,2.2,1,0
+Both,Phys-Ob,Alabama,1.8,1.4,2.2,1,0
+Both,Phys-Ob,Arkansas,2.7,2.1,3.4,1,0
+Both,Phys-Ob,Arizona,1.3,0.8,1.8,1,0
+Both,Phys-Ob,California,2,1.7,2.3,1,0
+Both,Phys-Ob,Colorado,1.7,1.1,2.2,1,0
+Both,Phys-Ob,Connecticut,1.6,1.1,2.1,1,0
+Both,Phys-Ob,District of Columbia,0.2,-0.8,1.3,0,0
+Both,Phys-Ob,Delaware,1.6,0.9,2.3,1,0
+Both,Phys-Ob,Florida,1.5,1.4,1.7,1,0
+Both,Phys-Ob,Georgia,1.8,1.5,2.1,1,0
+Both,Phys-Ob,Hawaii,1,0.3,1.6,1,0
+Both,Phys-Ob,Idaho,1.3,0.5,2,1,0
+Both,Phys-Ob,Illinois,1.5,1.2,1.9,1,0
+Both,Phys-Ob,Indiana,1.8,1.5,2.2,1,0
+Both,Phys-Ob,Iowa,1.9,1.4,2.3,1,1
+Both,Phys-Ob,Kansas,1.8,1.3,2.3,1,0
+Both,Phys-Ob,Kentucky,2.1,1.5,2.7,1,0
+Both,Phys-Ob,Louisiana,2.4,2,2.8,1,0
+Both,Phys-Ob,Massachusetts,0.6,-0.2,1.5,0,0
+Both,Phys-Ob,Maryland,1.3,1,1.7,1,0
+Both,Phys-Ob,Maine,1.8,1.4,2.3,1,0
+Both,Phys-Ob,Michigan,1.3,0.9,1.7,1,0
+Both,Phys-Ob,Minnesota,1.9,1.5,2.2,1,0
+Both,Phys-Ob,Missouri,1.6,1.3,1.8,1,0
+Both,Phys-Ob,Mississippi,,,,0,0
+Both,Phys-Ob,Montana,1.7,1.2,2.2,1,0
+Both,Phys-Ob,North Carolina,1.5,1,2,1,0
+Both,Phys-Ob,North Dakota,2.7,1.7,3.7,1,0
+Both,Phys-Ob,Nebraska,2.2,1.8,2.7,1,0
+Both,Phys-Ob,New Hampshire,1.5,0.9,2.2,1,0
+Both,Phys-Ob,New Jersey,1.2,0.8,1.7,1,0
+Both,Phys-Ob,New Mexico,2,1.4,2.6,1,0
+Both,Phys-Ob,Nevada,1.2,0.7,1.7,1,0
+Both,Phys-Ob,New York,1.9,1.4,2.4,1,0
+Both,Phys-Ob,Ohio,2.1,1.7,2.5,1,0
+Both,Phys-Ob,Oklahoma,2.6,2.2,3.1,1,0
+Both,Phys-Ob,Oregon,1.6,1.1,2.1,1,0
+Both,Phys-Ob,Pennsylvania,1,0.4,1.6,1,0
+Both,Phys-Ob,Rhode Island,0.3,-0.5,1.1,0,0
+Both,Phys-Ob,South Carolina,1.3,0.9,1.6,1,0
+Both,Phys-Ob,South Dakota,2.1,1.3,2.9,1,0
+Both,Phys-Ob,Tennessee,1.5,1,2.1,1,0
+Both,Phys-Ob,Texas,1.6,1.5,1.8,1,0
+Both,Phys-Ob,Utah,2.2,1.6,2.7,1,0
+Both,Phys-Ob,Virginia,1.6,1.1,2.1,1,0
+Both,Phys-Ob,Vermont,1.1,0.4,1.9,1,0
+Both,Phys-Ob,Washington,1.3,1.1,1.6,1,0
+Both,Phys-Ob,Wisconsin,1.8,1.4,2.2,1,0
+Both,Phys-Ob,West Virginia,2.6,2.2,3.1,1,0
+Both,Phys-Ob,Wyoming,1.8,1,2.6,1,0
+Male,Phys-Ob,Alaska,1.4,0.7,2.2,1,0
+Male,Phys-Ob,Alabama,1.7,1.2,2.2,1,0
+Male,Phys-Ob,Arkansas,2.4,1.6,3.1,1,0
+Male,Phys-Ob,Arizona,1.4,0.9,1.9,1,0
+Male,Phys-Ob,California,1.8,1.5,2,1,0
+Male,Phys-Ob,Colorado,2.1,1.6,2.5,1,0
+Male,Phys-Ob,Connecticut,1.7,1.3,2.2,1,0
+Male,Phys-Ob,District of Columbia,0.9,-0.3,2,0,0
+Male,Phys-Ob,Delaware,0.8,-0.3,1.9,0,0
+Male,Phys-Ob,Florida,1.2,1,1.4,1,0
+Male,Phys-Ob,Georgia,1.8,1.5,2.2,1,0
+Male,Phys-Ob,Hawaii,0.6,-0.4,1.6,0,0
+Male,Phys-Ob,Idaho,1.7,0.9,2.5,1,0
+Male,Phys-Ob,Illinois,1.7,1.5,2,1,0
+Male,Phys-Ob,Indiana,2,1.6,2.3,1,0
+Male,Phys-Ob,Iowa,2.2,1.6,2.8,1,1
+Male,Phys-Ob,Kansas,2.1,1.5,2.7,1,0
+Male,Phys-Ob,Kentucky,2.2,1.7,2.8,1,0
+Male,Phys-Ob,Louisiana,2.1,1.8,2.4,1,0
+Male,Phys-Ob,Massachusetts,0.9,0.2,1.7,1,0
+Male,Phys-Ob,Maryland,1.5,1,1.9,1,0
+Male,Phys-Ob,Maine,2.2,1.6,2.9,1,0
+Male,Phys-Ob,Michigan,1.7,1.3,2,1,0
+Male,Phys-Ob,Minnesota,2.3,1.8,2.8,1,0
+Male,Phys-Ob,Missouri,1.7,1.3,2,1,0
+Male,Phys-Ob,Mississippi,,,,0,0
+Male,Phys-Ob,Montana,2.5,1.6,3.4,1,0
+Male,Phys-Ob,North Carolina,1.3,0.8,1.8,1,0
+Male,Phys-Ob,North Dakota,2.8,1.6,4,1,0
+Male,Phys-Ob,Nebraska,2.4,1.8,3,1,0
+Male,Phys-Ob,New Hampshire,2,1.1,2.8,1,0
+Male,Phys-Ob,New Jersey,1.2,0.8,1.5,1,0
+Male,Phys-Ob,New Mexico,2.4,1.6,3.2,1,0
+Male,Phys-Ob,Nevada,0.8,0,1.6,0,0
+Male,Phys-Ob,New York,1.9,1.5,2.3,1,0
+Male,Phys-Ob,Ohio,2.3,1.9,2.8,1,0
+Male,Phys-Ob,Oklahoma,2.5,1.9,3.2,1,0
+Male,Phys-Ob,Oregon,1.9,1.2,2.5,1,0
+Male,Phys-Ob,Pennsylvania,1.3,0.8,1.8,1,0
+Male,Phys-Ob,Rhode Island,0.1,-0.6,0.9,0,0
+Male,Phys-Ob,South Carolina,1.4,0.8,1.9,1,0
+Male,Phys-Ob,South Dakota,2.7,1.5,3.9,1,0
+Male,Phys-Ob,Tennessee,1.7,1.1,2.3,1,0
+Male,Phys-Ob,Texas,1.4,1.2,1.7,1,0
+Male,Phys-Ob,Utah,2.4,1.7,3,1,0
+Male,Phys-Ob,Virginia,1.4,0.9,2,1,0
+Male,Phys-Ob,Vermont,1.4,0.3,2.5,1,0
+Male,Phys-Ob,Washington,1.4,1,1.7,1,0
+Male,Phys-Ob,Wisconsin,2.4,1.9,2.9,1,0
+Male,Phys-Ob,West Virginia,2.4,1.8,3.1,1,0
+Male,Phys-Ob,Wyoming,1.9,0.8,3.1,1,0
+Female,Phys-Ob,Alaska,1.6,0.7,2.6,1,0
+Female,Phys-Ob,Alabama,1.9,1.4,2.4,1,0
+Female,Phys-Ob,Arkansas,3,2.3,3.7,1,0
+Female,Phys-Ob,Arizona,1.3,0.6,1.9,1,0
+Female,Phys-Ob,California,2.2,1.8,2.5,1,0
+Female,Phys-Ob,Colorado,1.5,0.9,2.1,1,0
+Female,Phys-Ob,Connecticut,1.5,0.9,2.1,1,0
+Female,Phys-Ob,District of Columbia,-0.2,-1.4,1,0,0
+Female,Phys-Ob,Delaware,2,1.1,2.9,1,0
+Female,Phys-Ob,Florida,1.7,1.5,1.9,1,0
+Female,Phys-Ob,Georgia,1.7,1.3,2.2,1,0
+Female,Phys-Ob,Hawaii,1.2,0.5,1.9,1,0
+Female,Phys-Ob,Idaho,1.1,0.1,2.1,1,0
+Female,Phys-Ob,Illinois,1.4,1,1.9,1,0
+Female,Phys-Ob,Indiana,1.8,1.3,2.3,1,0
+Female,Phys-Ob,Iowa,1.7,1.2,2.2,1,1
+Female,Phys-Ob,Kansas,1.7,1.1,2.3,1,0
+Female,Phys-Ob,Kentucky,2,1.4,2.7,1,0
+Female,Phys-Ob,Louisiana,2.6,2.1,3.2,1,0
+Female,Phys-Ob,Massachusetts,0.5,-0.4,1.4,0,0
+Female,Phys-Ob,Maryland,1.3,0.8,1.8,1,0
+Female,Phys-Ob,Maine,1.7,1,2.3,1,0
+Female,Phys-Ob,Michigan,1.2,0.7,1.7,1,0
+Female,Phys-Ob,Minnesota,1.7,1.2,2.1,1,0
+Female,Phys-Ob,Missouri,1.5,1.1,1.9,1,0
+Female,Phys-Ob,Mississippi,,,,0,0
+Female,Phys-Ob,Montana,1.3,0.8,1.9,1,0
+Female,Phys-Ob,North Carolina,1.6,1,2.2,1,0
+Female,Phys-Ob,North Dakota,2.7,1.5,4,1,0
+Female,Phys-Ob,Nebraska,2.2,1.7,2.8,1,0
+Female,Phys-Ob,New Hampshire,1.4,0.6,2.2,1,0
+Female,Phys-Ob,New Jersey,1.3,0.8,1.8,1,0
+Female,Phys-Ob,New Mexico,1.8,1.2,2.5,1,0
+Female,Phys-Ob,Nevada,1.4,0.9,1.9,1,0
+Female,Phys-Ob,New York,1.9,1.3,2.5,1,0
+Female,Phys-Ob,Ohio,2,1.6,2.5,1,0
+Female,Phys-Ob,Oklahoma,2.7,2.2,3.2,1,0
+Female,Phys-Ob,Oregon,1.5,0.9,2.1,1,0
+Female,Phys-Ob,Pennsylvania,0.9,0.2,1.6,1,0
+Female,Phys-Ob,Rhode Island,0.4,-0.6,1.5,0,0
+Female,Phys-Ob,South Carolina,1.2,0.7,1.7,1,0
+Female,Phys-Ob,South Dakota,1.9,1,2.9,1,0
+Female,Phys-Ob,Tennessee,1.4,0.8,2.1,1,0
+Female,Phys-Ob,Texas,1.8,1.5,2,1,0
+Female,Phys-Ob,Utah,2.1,1.4,2.8,1,0
+Female,Phys-Ob,Virginia,1.7,1.1,2.3,1,0
+Female,Phys-Ob,Vermont,1,0,2.1,0,0
+Female,Phys-Ob,Washington,1.4,1,1.7,1,0
+Female,Phys-Ob,Wisconsin,1.4,1,1.9,1,0
+Female,Phys-Ob,West Virginia,2.8,2.2,3.3,1,0
+Female,Phys-Ob,Wyoming,1.9,0.7,3,1,0
+Both,Nitrate,Alaska,0.5,-0.2,1.3,0,0
+Both,Nitrate,Alabama,1,0.8,1.2,1,0
+Both,Nitrate,Arkansas,1.9,1.4,2.5,1,0
+Both,Nitrate,Arizona,0.7,0.2,1.2,1,0
+Both,Nitrate,California,1.2,1,1.4,1,0
+Both,Nitrate,Colorado,0.9,0.5,1.3,1,0
+Both,Nitrate,Connecticut,0.9,0.6,1.3,1,0
+Both,Nitrate,District of Columbia,-0.5,-1.2,0.3,0,0
+Both,Nitrate,Delaware,0.7,0.3,1.2,1,0
+Both,Nitrate,Florida,1,0.7,1.2,1,0
+Both,Nitrate,Georgia,1,0.8,1.3,1,0
+Both,Nitrate,Hawaii,0.4,-0.2,1,0,0
+Both,Nitrate,Idaho,0.6,0.2,1.1,1,0
+Both,Nitrate,Illinois,0.9,0.6,1.2,1,0
+Both,Nitrate,Indiana,1.1,0.8,1.4,1,0
+Both,Nitrate,Iowa,1.1,0.7,1.5,1,1
+Both,Nitrate,Kansas,1.1,0.6,1.5,1,0
+Both,Nitrate,Kentucky,1.6,1.2,2,1,0
+Both,Nitrate,Louisiana,1.6,1.3,2,1,0
+Both,Nitrate,Massachusetts,0.2,-0.5,0.8,0,0
+Both,Nitrate,Maryland,0.7,0.4,1,1,0
+Both,Nitrate,Maine,1.1,0.7,1.6,1,0
+Both,Nitrate,Michigan,0.7,0.3,1,1,0
+Both,Nitrate,Minnesota,1.2,0.9,1.5,1,0
+Both,Nitrate,Missouri,1,0.7,1.2,1,0
+Both,Nitrate,Mississippi,,,,0,0
+Both,Nitrate,Montana,1.2,0.8,1.6,1,0
+Both,Nitrate,North Carolina,0.8,0.4,1.2,1,0
+Both,Nitrate,North Dakota,1.9,1.1,2.6,1,0
+Both,Nitrate,Nebraska,1.4,1,1.9,1,0
+Both,Nitrate,New Hampshire,0.8,0.2,1.4,1,0
+Both,Nitrate,New Jersey,0.7,0.3,1,1,0
+Both,Nitrate,New Mexico,1.3,0.9,1.8,1,0
+Both,Nitrate,Nevada,0.3,-0.1,0.7,0,0
+Both,Nitrate,New York,1.2,0.8,1.6,1,0
+Both,Nitrate,Ohio,1.4,1.1,1.7,1,0
+Both,Nitrate,Oklahoma,1.6,1.2,2,1,0
+Both,Nitrate,Oregon,0.7,0.3,1.1,1,0
+Both,Nitrate,Pennsylvania,0.6,0,1.1,0,0
+Both,Nitrate,Rhode Island,0,-0.8,0.7,0,0
+Both,Nitrate,South Carolina,0.5,0.1,0.8,1,0
+Both,Nitrate,South Dakota,1.2,0.5,2,1,0
+Both,Nitrate,Tennessee,0.9,0.4,1.4,1,0
+Both,Nitrate,Texas,0.9,0.7,1,1,0
+Both,Nitrate,Utah,1.4,1,1.8,1,0
+Both,Nitrate,Virginia,0.9,0.5,1.4,1,0
+Both,Nitrate,Vermont,0.6,0,1.2,0,0
+Both,Nitrate,Washington,0.6,0.3,0.9,1,0
+Both,Nitrate,Wisconsin,1.1,0.7,1.5,1,0
+Both,Nitrate,West Virginia,1.7,1.3,2.2,1,0
+Both,Nitrate,Wyoming,1,0.2,1.8,1,0
+Male,Nitrate,Alaska,0.3,-0.4,1,0,0
+Male,Nitrate,Alabama,0.6,0.2,0.9,1,0
+Male,Nitrate,Arkansas,1.4,0.9,2,1,0
+Male,Nitrate,Arizona,0.8,0.4,1.2,1,0
+Male,Nitrate,California,0.8,0.7,1,1,0
+Male,Nitrate,Colorado,0.7,0.3,1.2,1,0
+Male,Nitrate,Connecticut,0.6,0.3,1,1,0
+Male,Nitrate,District of Columbia,-0.6,-1.4,0.2,0,0
+Male,Nitrate,Delaware,0.1,-0.9,1.1,0,0
+Male,Nitrate,Florida,0.5,0.3,0.8,1,0
+Male,Nitrate,Georgia,0.8,0.5,1.1,1,0
+Male,Nitrate,Hawaii,0.2,-0.5,1,0,0
+Male,Nitrate,Idaho,0.9,0.2,1.5,1,0
+Male,Nitrate,Illinois,0.8,0.6,1,1,0
+Male,Nitrate,Indiana,0.9,0.7,1.2,1,0
+Male,Nitrate,Iowa,1.1,0.7,1.5,1,1
+Male,Nitrate,Kansas,0.8,0.3,1.3,1,0
+Male,Nitrate,Kentucky,1.3,0.9,1.7,1,0
+Male,Nitrate,Louisiana,1.1,0.8,1.4,1,0
+Male,Nitrate,Massachusetts,-0.1,-0.6,0.5,0,0
+Male,Nitrate,Maryland,0.5,0.2,0.9,1,0
+Male,Nitrate,Maine,0.8,0.1,1.5,1,0
+Male,Nitrate,Michigan,0.7,0.4,1,1,0
+Male,Nitrate,Minnesota,1.2,0.8,1.5,1,0
+Male,Nitrate,Missouri,0.8,0.5,1.1,1,0
+Male,Nitrate,Mississippi,,,,0,0
+Male,Nitrate,Montana,1.4,0.8,2.1,1,0
+Male,Nitrate,North Carolina,0.6,0.2,0.9,1,0
+Male,Nitrate,North Dakota,1.6,0.8,2.5,1,0
+Male,Nitrate,Nebraska,0.9,0.4,1.5,1,0
+Male,Nitrate,New Hampshire,0.4,-0.2,1.1,0,0
+Male,Nitrate,New Jersey,0.3,0,0.6,0,0
+Male,Nitrate,New Mexico,1.5,1,2.1,1,0
+Male,Nitrate,Nevada,-0.2,-0.8,0.4,0,0
+Male,Nitrate,New York,0.8,0.6,1.1,1,0
+Male,Nitrate,Ohio,1.2,0.9,1.5,1,0
+Male,Nitrate,Oklahoma,1.2,0.7,1.6,1,0
+Male,Nitrate,Oregon,0.5,0,1,0,0
+Male,Nitrate,Pennsylvania,0.4,0.1,0.8,1,0
+Male,Nitrate,Rhode Island,-0.7,-1.4,-0.1,1,0
+Male,Nitrate,South Carolina,0.4,0,0.8,0,0
+Male,Nitrate,South Dakota,0.9,0,1.8,0,0
+Male,Nitrate,Tennessee,0.9,0.4,1.4,1,0
+Male,Nitrate,Texas,0.6,0.5,0.8,1,0
+Male,Nitrate,Utah,1.2,0.8,1.5,1,0
+Male,Nitrate,Virginia,0.4,-0.1,0.9,0,0
+Male,Nitrate,Vermont,0.2,-0.5,1,0,0
+Male,Nitrate,Washington,0.4,0.1,0.7,1,0
+Male,Nitrate,Wisconsin,1.1,0.7,1.5,1,0
+Male,Nitrate,West Virginia,1.2,0.7,1.7,1,0
+Male,Nitrate,Wyoming,0.2,-0.6,1,0,0
+Female,Nitrate,Alaska,0.8,-0.2,1.8,0,0
+Female,Nitrate,Alabama,1.4,1,1.8,1,0
+Female,Nitrate,Arkansas,2.4,1.7,3,1,0
+Female,Nitrate,Arizona,0.6,0,1.2,0,0
+Female,Nitrate,California,1.6,1.3,1.9,1,0
+Female,Nitrate,Colorado,1.1,0.6,1.6,1,0
+Female,Nitrate,Connecticut,1.2,0.7,1.7,1,0
+Female,Nitrate,District of Columbia,-0.4,-1.4,0.6,0,0
+Female,Nitrate,Delaware,1.2,0.6,1.9,1,0
+Female,Nitrate,Florida,1.4,1.1,1.7,1,0
+Female,Nitrate,Georgia,1.2,0.8,1.5,1,0
+Female,Nitrate,Hawaii,0.6,-0.2,1.4,0,0
+Female,Nitrate,Idaho,0.5,-0.2,1.2,0,0
+Female,Nitrate,Illinois,1,0.5,1.5,1,0
+Female,Nitrate,Indiana,1.2,0.8,1.6,1,0
+Female,Nitrate,Iowa,1.1,0.7,1.6,1,1
+Female,Nitrate,Kansas,1.3,0.7,1.9,1,0
+Female,Nitrate,Kentucky,1.8,1.3,2.3,1,0
+Female,Nitrate,Louisiana,2.1,1.6,2.7,1,0
+Female,Nitrate,Massachusetts,0.3,-0.4,1.1,0,0
+Female,Nitrate,Maryland,0.9,0.4,1.3,1,0
+Female,Nitrate,Maine,1.4,0.8,2.1,1,0
+Female,Nitrate,Michigan,0.7,0.2,1.1,1,0
+Female,Nitrate,Minnesota,1.3,0.9,1.6,1,0
+Female,Nitrate,Missouri,1.1,0.7,1.5,1,0
+Female,Nitrate,Mississippi,,,,0,0
+Female,Nitrate,Montana,1,0.4,1.5,1,0
+Female,Nitrate,North Carolina,1.1,0.5,1.6,1,0
+Female,Nitrate,North Dakota,2,0.9,3.2,1,0
+Female,Nitrate,Nebraska,1.9,1.3,2.4,1,0
+Female,Nitrate,New Hampshire,1.1,0.4,1.9,1,0
+Female,Nitrate,New Jersey,1,0.6,1.5,1,0
+Female,Nitrate,New Mexico,1.2,0.6,1.9,1,0
+Female,Nitrate,Nevada,0.6,0.1,1.1,1,0
+Female,Nitrate,New York,1.5,1,2,1,0
+Female,Nitrate,Ohio,1.6,1.2,2,1,0
+Female,Nitrate,Oklahoma,2,1.4,2.5,1,0
+Female,Nitrate,Oregon,0.8,0.3,1.4,1,0
+Female,Nitrate,Pennsylvania,0.7,0,1.4,0,0
+Female,Nitrate,Rhode Island,0.6,-0.5,1.6,0,0
+Female,Nitrate,South Carolina,0.5,0.1,0.9,1,0
+Female,Nitrate,South Dakota,1.6,0.5,2.6,1,0
+Female,Nitrate,Tennessee,0.9,0.3,1.5,1,0
+Female,Nitrate,Texas,1,0.8,1.3,1,0
+Female,Nitrate,Utah,1.6,1.1,2.2,1,0
+Female,Nitrate,Virginia,1.4,0.8,2,1,0
+Female,Nitrate,Vermont,0.9,-0.1,2,0,0
+Female,Nitrate,Washington,0.8,0.4,1.1,1,0
+Female,Nitrate,Wisconsin,1,0.6,1.5,1,0
+Female,Nitrate,West Virginia,2.2,1.6,2.8,1,0
+Female,Nitrate,Wyoming,1.7,0.6,2.8,1,0
+Both,Other,Alaska,,,,0,0
+Both,Other,Alabama,0.4,-0.3,1.1,0,0
+Both,Other,Arkansas,-0.1,-0.8,0.6,0,0
+Both,Other,Arizona,-1.4,-1.9,-0.8,1,0
+Both,Other,California,-1.1,-1.4,-0.7,1,0
+Both,Other,Colorado,-1.4,-2,-0.9,1,0
+Both,Other,Connecticut,-0.1,-1.1,0.9,0,0
+Both,Other,District of Columbia,,,,0,0
+Both,Other,Delaware,,,,0,0
+Both,Other,Florida,-0.7,-1.1,-0.4,1,0
+Both,Other,Georgia,0.2,-0.3,0.6,0,0
+Both,Other,Hawaii,-1.7,-3.3,-0.2,1,0
+Both,Other,Idaho,-0.4,-1.8,1,0,0
+Both,Other,Illinois,-1.2,-1.7,-0.7,1,0
+Both,Other,Indiana,0.2,-0.4,0.7,0,0
+Both,Other,Iowa,0.5,-0.5,1.5,0,1
+Both,Other,Kansas,0.3,-0.5,1.1,0,0
+Both,Other,Kentucky,0.9,0.3,1.5,1,0
+Both,Other,Louisiana,-0.4,-0.9,0.1,0,0
+Both,Other,Massachusetts,-0.9,-1.4,-0.4,1,0
+Both,Other,Maryland,-0.9,-1.6,-0.2,1,0
+Both,Other,Maine,-1.1,-2.2,0,0,0
+Both,Other,Michigan,-0.5,-1,0,0,0
+Both,Other,Minnesota,-0.8,-1.6,0,0,0
+Both,Other,Missouri,0.1,-0.3,0.5,0,0
+Both,Other,Mississippi,,,,0,0
+Both,Other,Montana,,,,0,0
+Both,Other,North Carolina,-0.5,-0.9,-0.2,1,0
+Both,Other,North Dakota,,,,0,0
+Both,Other,Nebraska,-0.3,-1.6,1.1,0,0
+Both,Other,New Hampshire,-0.9,-2.1,0.2,0,0
+Both,Other,New Jersey,-1.6,-2,-1.1,1,0
+Both,Other,New Mexico,0.4,-0.5,1.3,0,0
+Both,Other,Nevada,0,-0.9,1,0,0
+Both,Other,New York,-1,-1.4,-0.7,1,0
+Both,Other,Ohio,0.1,-0.4,0.5,0,0
+Both,Other,Oklahoma,0,-0.7,0.8,0,0
+Both,Other,Oregon,-0.6,-1.4,0.1,0,0
+Both,Other,Pennsylvania,-0.6,-1,-0.1,1,0
+Both,Other,Rhode Island,-1.4,-2.5,-0.2,1,0
+Both,Other,South Carolina,-0.5,-0.9,0,0,0
+Both,Other,South Dakota,,,,0,0
+Both,Other,Tennessee,-0.4,-1.2,0.4,0,0
+Both,Other,Texas,-0.5,-0.8,-0.1,1,0
+Both,Other,Utah,-0.2,-1,0.5,0,0
+Both,Other,Virginia,-0.5,-1.1,0,0,0
+Both,Other,Vermont,,,,0,0
+Both,Other,Washington,-0.8,-1.5,-0.1,1,0
+Both,Other,Wisconsin,0.1,-0.6,0.7,0,0
+Both,Other,West Virginia,0.2,-0.5,1,0,0
+Both,Other,Wyoming,,,,0,0
+Male,Other,Alaska,,,,0,0
+Male,Other,Alabama,,,,0,0
+Male,Other,Arkansas,,,,0,0
+Male,Other,Arizona,,,,0,0
+Male,Other,California,-2.4,-3.2,-1.7,1,0
+Male,Other,Colorado,,,,0,0
+Male,Other,Connecticut,,,,0,0
+Male,Other,District of Columbia,,,,0,0
+Male,Other,Delaware,,,,0,0
+Male,Other,Florida,-1.8,-3.1,-0.6,1,0
+Male,Other,Georgia,1.7,0,3.5,0,0
+Male,Other,Hawaii,,,,0,0
+Male,Other,Idaho,,,,0,0
+Male,Other,Illinois,-1.2,-2.4,0.1,0,0
+Male,Other,Indiana,,,,0,0
+Male,Other,Iowa,,,,0,1
+Male,Other,Kansas,,,,0,0
+Male,Other,Kentucky,,,,0,0
+Male,Other,Louisiana,,,,0,0
+Male,Other,Massachusetts,,,,0,0
+Male,Other,Maryland,,,,0,0
+Male,Other,Maine,,,,0,0
+Male,Other,Michigan,,,,0,0
+Male,Other,Minnesota,,,,0,0
+Male,Other,Missouri,,,,0,0
+Male,Other,Mississippi,,,,0,0
+Male,Other,Montana,,,,0,0
+Male,Other,North Carolina,,,,0,0
+Male,Other,North Dakota,,,,0,0
+Male,Other,Nebraska,,,,0,0
+Male,Other,New Hampshire,,,,0,0
+Male,Other,New Jersey,,,,0,0
+Male,Other,New Mexico,,,,0,0
+Male,Other,Nevada,,,,0,0
+Male,Other,New York,-1.2,-2.2,-0.1,1,0
+Male,Other,Ohio,,,,0,0
+Male,Other,Oklahoma,,,,0,0
+Male,Other,Oregon,,,,0,0
+Male,Other,Pennsylvania,,,,0,0
+Male,Other,Rhode Island,,,,0,0
+Male,Other,South Carolina,,,,0,0
+Male,Other,South Dakota,,,,0,0
+Male,Other,Tennessee,,,,0,0
+Male,Other,Texas,-1.3,-2.1,-0.5,1,0
+Male,Other,Utah,,,,0,0
+Male,Other,Virginia,,,,0,0
+Male,Other,Vermont,,,,0,0
+Male,Other,Washington,,,,0,0
+Male,Other,Wisconsin,,,,0,0
+Male,Other,West Virginia,,,,0,0
+Male,Other,Wyoming,,,,0,0
+Female,Other,Alaska,,,,0,0
+Female,Other,Alabama,0.5,-0.3,1.3,0,0
+Female,Other,Arkansas,0,-0.8,0.7,0,0
+Female,Other,Arizona,-1.2,-1.7,-0.7,1,0
+Female,Other,California,-0.9,-1.2,-0.5,1,0
+Female,Other,Colorado,-1.2,-1.8,-0.6,1,0
+Female,Other,Connecticut,0,-1,1,0,0
+Female,Other,District of Columbia,,,,0,0
+Female,Other,Delaware,,,,0,0
+Female,Other,Florida,-0.6,-1,-0.2,1,0
+Female,Other,Georgia,-0.1,-0.6,0.4,0,0
+Female,Other,Hawaii,-1.6,-3.2,0,0,0
+Female,Other,Idaho,-0.4,-1.8,1.1,0,0
+Female,Other,Illinois,-1.1,-1.6,-0.6,1,0
+Female,Other,Indiana,0.2,-0.4,0.8,0,0
+Female,Other,Iowa,0.5,-0.5,1.5,0,1
+Female,Other,Kansas,0.4,-0.4,1.3,0,0
+Female,Other,Kentucky,0.9,0.3,1.6,1,0
+Female,Other,Louisiana,-0.2,-0.8,0.4,0,0
+Female,Other,Massachusetts,-0.8,-1.4,-0.2,1,0
+Female,Other,Maryland,-0.8,-1.5,-0.2,1,0
+Female,Other,Maine,-0.8,-2,0.3,0,0
+Female,Other,Michigan,-0.5,-1.1,0,0,0
+Female,Other,Minnesota,-0.7,-1.5,0.1,0,0
+Female,Other,Missouri,0.2,-0.2,0.7,0,0
+Female,Other,Mississippi,,,,0,0
+Female,Other,Montana,,,,0,0
+Female,Other,North Carolina,-0.5,-0.9,-0.2,1,0
+Female,Other,North Dakota,,,,0,0
+Female,Other,Nebraska,-0.3,-1.7,1.2,0,0
+Female,Other,New Hampshire,-0.8,-2,0.4,0,0
+Female,Other,New Jersey,-1.5,-2,-0.9,1,0
+Female,Other,New Mexico,0.6,-0.4,1.6,0,0
+Female,Other,Nevada,-0.1,-1.2,1.1,0,0
+Female,Other,New York,-1,-1.3,-0.6,1,0
+Female,Other,Ohio,0.1,-0.3,0.6,0,0
+Female,Other,Oklahoma,0.1,-0.6,0.9,0,0
+Female,Other,Oregon,-0.4,-1.2,0.3,0,0
+Female,Other,Pennsylvania,-0.6,-1,-0.1,1,0
+Female,Other,Rhode Island,-1.3,-2.7,0,0,0
+Female,Other,South Carolina,-0.5,-1.1,0.1,0,0
+Female,Other,South Dakota,,,,0,0
+Female,Other,Tennessee,-0.4,-1.1,0.4,0,0
+Female,Other,Texas,-0.4,-0.7,0,0,0
+Female,Other,Utah,-0.3,-1.2,0.6,0,0
+Female,Other,Virginia,-0.4,-0.9,0,0,0
+Female,Other,Vermont,,,,0,0
+Female,Other,Washington,-0.6,-1.2,0.1,0,0
+Female,Other,Wisconsin,0.1,-0.7,0.8,0,0
+Female,Other,West Virginia,0.2,-0.5,1,0,0
+Female,Other,Wyoming,,,,0,0
