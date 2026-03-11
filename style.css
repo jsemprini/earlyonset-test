@@ -1,0 +1,36 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:40px;
+}
+
+.controls{
+margin-bottom:20px;
+}
+
+.controls select{
+margin-right:20px;
+}
+
+.container{
+display:grid;
+grid-template-columns: 60% 40%;
+gap:30px;
+}
+
+#chart{
+height:700px;
+}
+
+table{
+border-collapse:collapse;
+width:100%;
+}
+
+th, td{
+border:1px solid #ddd;
+padding:6px;
+}
+
+th{
+background:#f2f2f2;
+}
